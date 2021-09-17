@@ -1,0 +1,594 @@
+sentence	book	ode	form	polarity	sent_score
+0001	1	1	Maecenas atauis edite regibus o et praesidium et dulce decus meum sunt quos curriculo puluerem Olympicum collegisse iuuat meta que feruidis euitata rotis palma que nobilis terrarum dominos euehit ad deos hunc si mobilium turba Quiritium certat tergeminis tollere honoribus illum si proprio condidit horreo quidquid de Libycis uerritur areis	positive	2.0
+0002	1	1	gaudentem patrios findere sarculo agros Attalicis condicionibus numquam demoueas ut trabe Cypria Myrtoum pauidus nauta secet Mare luctantem Icariis fluctibus Africum mercator metuens otium et oppidi laudat rura sui mox reficit rates quassas indocilis pauperiem pati	negative	-1.5
+0003	1	1	est qui nec ueteris pocula Massici nec partem solido demere de die spernit nunc uiridi membra sub arbuto stratus nunc ad aquae lene caput sacrae castra multos iuuant et lituo tubae permixtus sonitus bella que matribus detestata manet sub Ioue frigido uenator tenerae coniugis inmemor seu uisa <est> <uisa> est catulis cerua fidelibus seu rupit teretes Marsus aper plagas	positive	2.5
+0004	1	1	me doctarum hederae praemia frontium dis miscent superis me gelidum nemus Nympharum que leues cum Satyris chori secernunt populo si neque tibias Euterpe cohibet nec Polyhymnia Lesboum refugit tendere barbiton	mixed	0.0
+0005	1	1	quod si me lyricis uatibus inseres sublimi feriam sidera uertice	positive	0.5
+0006	1	2	iam satis terris niuis atque dirae grandinis misit pater et rubente dextera sacras iaculatus arcis terruit urbem terruit gentis graue ne rediret saeculum Pyrrhae noua monstra questae omne cum Proteus pecus egit altos uisere montis piscium et summa genus haesit ulmo nota quae sedes fuerat columbis et superiecto pauidae natarunt aequore dammae	positive	0.5
+0007	1	2	uidimus flauom Tiberim retortis litore Etrusco uiolenter undis ire deiectum monumenta regis templa que Vestae Iliae dum se nimium querenti iactat ultorem uagus et sinistra labitur ripa Ioue non probante u <xorius> <u> xorius amnis	neutral	0.0
+0008	1	2	audiet ciuis acuisse ferrum quo graues Persae melius perirent audiet pugnas uitio parentum rara iuuentus	negative	-1.5
+0009	1	2	quem uocet diuum populus ruentis imperi rebus	neutral	0.0
+0010	1	2	prece qua fatigent uirgines sanctae minus audientem carmina Vestam	positive	0.5
+0011	1	2	cui dabit partis scelus expiandi Iuppiter	negative	-1.0
+0012	1	2	tandem uenias precamur nube candentis umeros amictus augur Apollo siue tu mauis Erycina ridens quam Iocus circum uolat et Cupido siue neglectum genus et nepotes respicis auctor heu nimis longo satiate ludo quem iuuat clamor galeae que leues acer et Marsi peditis cruentum uoltus in hostem siue mutata iuuenem figura ales in terris imitaris almae filius Maiae patiens uocari Caesaris ultor serus in caelum redeas diu que laetus intersis populo Quirini neue te nostris uitiis iniquum ocior aura tollat hic magnos potius triumphos hic ames dici pater atque princeps neu sinas Medos equitare inultos te duce Caesar	positive	1.0
+0013	1	3	sic te diua potens Cypri sic fratres Helenae lucida sidera uentorum que regat pater obstrictis aliis praeter Iapyga nauis quae tibi creditum debes Vergilium finibus Atticis reddas incolumem precor et serues animae dimidium meae	positive	1.0
+0014	1	3	illi robur et aes triplex circa pectus erat qui fragilem truci conmisit pelago ratem primus nec timuit praecipitem Africum decertantem Aquilonibus nec tristis Hyadas nec rabiem Noti quo non arbiter Hadriae maior tollere seu ponere uolt freta	negative	-1.0
+0015	1	3	quem mortis timuit gradum qui siccis oculis monstra natantia qui uidit mare turbidum et infamis scopulos Acroceraunia	negative	-1.5
+0016	1	3	nequiquam deus abscidit prudens oceano dissociabili terras si tamen inpiae non tangenda rates transiliunt uada	mixed	0.0
+0017	1	3	audax omnia perpeti gens humana ruit per uetitum nefas audax Iapeti genus ignem fraude mala gentibus intulit	negative	-3.0
+0018	1	3	post ignem aetheria domo subductum macies et noua febrium terris incubuit cohors semoti que prius tarda necessitas leti corripuit gradum	negative	-0.5
+0019	1	3	expertus (est) uacuum Daedalus aera pennis non homini datis perrupit Acheronta Herculeus labor	negative	-0.5
+0020	1	3	nil mortalibus ardui est caelum ipsum petimus stultitia neque per nostrum patimur scelus iracunda Iouem ponere fulmina	negative	-3.5
+0021	1	4	soluitur acris hiems grata uice ueris et Fauoni trahunt que siccas machinae carinas ac neque iam stabulis gaudet pecus aut arator igni nec prata canis albicant pruinis	positive	1.0
+0022	1	4	iam Cytherea choros ducit Venus imminente luna iunctae que Nymphis Gratiae decentes alterno terram quatiunt pede dum grauis Cyclopum Volcanus ardens uisit officinas	positive	2.0
+0023	1	4	nunc decet aut uiridi nitidum caput impedire myrto aut flore terrae quem ferunt solutae	positive	1.0
+0024	1	4	nunc et in umbrosis Fauno decet immolare lucis seu poscat agna siue malit haedo	neutral	0.0
+0025	1	4	pallida Mors aequo pulsat pede pauperum tabernas regum que turris	negative	-1.5
+0026	1	4	o beate Sesti uitae summa breuis spem nos uetat inchoare longam iam te premet nox fabulae que Manes et domus exilis Plutonia quo simul mearis nec regna uini sortiere talis nec tenerum Lycidan mirabere quo calet iuuentus nunc omnis et mox uirgines tepebunt	positive	1.5
+0027	1	5	quis multa gracilis te puer in rosa perfusus liquidis urget odoribus grato Pyrrha sub antro	positive	1.0
+0028	1	5	cui flauam religas comam simplex munditiis	positive	1.5
+0029	1	5	heu quotiens fidem mutatos que deos flebit et aspera nigris aequora uentis emirabitur insolens qui nunc te fruitur credulus aurea qui semper uacuam semper amabilem sperat nescius aurae fallacis	mixed	0.0
+0030	1	5	miseri quibus intemptata nites me tabula sacer uotiua paries indicat uuida suspendisse potenti uestimenta maris deo	positive	1.0
+0031	1	6	scriberis Vario fortis et hostium uictor Maeonii carminis alite quam rem cumque ferox nauibus aut equis miles te duce gesserit	negative	-1.0
+0032	1	6	nos Agrippa neque haec dicere nec grauem Pelidae stomachum cedere nescii nec cursus duplicis per mare Vlixei nec saeuam Pelopis domum conamur tenues grandia dum pudor inbellis que lyrae Musa potens uetat laudes egregii Caesaris et tuas culpa deterere ingeni	negative	-0.5
+0033	1	6	quis Martem tunica tectum adamantina digne scripserit aut puluere Troico nigrum Merionen aut ope Palladis Tydiden superis parem	positive	0.5
+0034	1	6	nos conuiuia nos proelia uirginum sectis in iuuenes unguibus acrium cantamus uacui siue quid urimur non praeter solitum leues	negative	-1.0
+0035	1	7	laudabunt alii claram Rhodon aut Mytilenen aut Epheson bimaris ue Corinthi moenia uel Baccho Thebas uel Apolline Delphos insignis aut Thessala Tempe sunt quibus unum opus est intactae Palladis urbem carmine perpetuo celebrare et undique decerptam fronti praeponere oliuam plurimus in Iunonis honorem aptum dicet equis Argos ditis que Mycenas me nec tam patiens Lacedaemon nec tam Larisae percussit campus opimae quam domus Albuneae resonantis et praeceps Anio ac Tiburni lucus et uda mobilibus pomaria riuis	positive	2.5
+0036	1	7	albus ut obscuro deterget nubila caelo saepe Notus neque parturit imbris perpetuo sic tu sapiens finire memento tristitiam uitae que labores molli Plance mero seu te fulgentia signis castra tenent seu densa tenebit Tiburis umbra tui	mixed	0.0
+0037	1	7	Teucer Salamina patrem que cum fugeret tamen uda Lyaeo tempora populea fertur uinxisse corona sic tristis adfatus amicos quo nos cumque feret melior fortuna parente ibimus o socii comites que nil desperandum Teucro duce et auspice Teucro	positive	3.0
+0038	1	7	certus enim promisit Apollo ambiguam tellure noua Salamina futuram (est)	positive	0.5
+0039	1	7	o fortes peiora que passi me cum saepe uiri nunc uino pellite curas cras ingens iterabimus aequor	negative	-1.5
+0040	1	8	Lydia dic per omnis te deos oro Sybarin cur properes amando perdere cur apricum oderit campum patiens pulueris atque solis cur neque militaris inter aequalis equitet Gallica nec lupatis temperet ora frenis	positive	1.0
+0041	1	8	cur timet flauum Tiberim tangere	neutral	0.0
+0042	1	8	cur oliuum sanguine uiperino cautius uitat neque iam liuida gestat armis bracchia saepe disco saepe trans finem iaculo nobilis expedito	positive	1.0
+0043	1	8	quid latet ut marinae filium dicunt Thetidis sub lacrimosa Troiae funera ne uirilis cultus in caedem et Lycias proriperet cateruas	negative	-1.0
+0044	1	9	uides ut alta stet niue candidum Soracte nec iam sustineant onus siluae laborantes gelu que flumina constiterint acuto	positive	0.5
+0045	1	9	dissolue frigus ligna super foco large reponens atque benignius deprome quadrimum Sabina o Thaliarche merum diota	neutral	0.0
+0046	1	9	permitte diuis cetera qui simul strauere uentos aequore feruido deproeliantis nec cupressi nec ueteres agitantur orni	negative	-0.5
+0047	1	9	quid sit futurum cras fuge quaerere et quem Fors dierum cumque dabit lucro adpone nec dulcis amores sperne puer neque tu choreas donec uirenti canities abest morosa	positive	1.0
+0048	1	9	nunc et campus et areae lenes que sub noctem susurri conposita repetantur hora nunc et latentis proditor intumo gratus puellae risus ab angulo pignus que dereptum lacertis aut digito male pertinaci	positive	2.0
+0049	1	10	Mercuri facunde nepos Atlantis qui feros cultus hominum recentum uoce formasti catus et decorae more palaestrae te canam magni Iouis et deorum nuntium curuae que lyrae parentem callidum quidquid placuit iocoso condere furto	positive	1.5
+0050	1	10	te boues olim nisi reddidisses per dolum amotas puerum minaci uoce dum terret uiduus pharetra risit Apollo	neutral	0.0
+0051	1	10	quin et Atridas duce te superbos Ilio diues Priamus relicto Thessalos que ignis et iniqua Troiae castra fefellit	negative	-1.0
+0052	1	10	tu pias laetis animas reponis sedibus uirga que leuem coerces aurea turbam superis deorum gratus et imis	positive	3.0
+0053	1	11	tu ne quaesieris scire nefas quem mihi quem tibi finem di dederint Leuconoe nec Babylonios temptaris numeros	negative	-1.0
+0054	1	11	ut melius quidquid erit pati	positive	1.0
+0055	1	11	seu pluris hiemes seu tribuit Iuppiter ultimam quae nunc oppositis debilitat pumicibus mare Tyrrhenum sapias uina liques et spatio breui spem longam reseces	positive	0.5
+0056	1	11	dum loquimur fugerit inuida aetas carpe diem quam minimum credula postero	negative	-1.5
+0057	1	12	quem uirum aut heroa lyra uel acri tibia sumis celebrare Clio	positive	0.5
+0058	1	12	quem deum	neutral	0.0
+0059	1	12	cuius recinet iocosa nomen imago aut in umbrosis Heliconis oris aut super Pindo gelido ue in Haemo	neutral	0.0
+0060	1	12	unde uocalem temere insecutae (sunt) Orphea siluae arte materna rapidos morantem fluminum lapsus celeris que uentos blandum et auritas fidibus canoris ducere quercus	positive	1.5
+0061	1	12	quid prius dicam solitis parentis laudibus qui res hominum ac deorum qui mare ac terras uariis que mundum temperat horis	positive	3.0
+0062	1	12	unde nil maius generatur ipso nec uiget quidquam simile aut secundum	neutral	0.0
+0063	1	12	proximos illi tamen occupauit Pallas honores proeliis audax	mixed	0.0
+0064	1	12	neque te silebo Liber et saeuis inimica uirgo beluis nec te metuende certa Phoebe sagitta	negative	-1.0
+0065	1	12	dicam et Alciden pueros que Ledae hunc equis illum superare pugnis nobilem quorum simul alba nautis stella refulsit defluit saxis agitatus umor concidunt uenti fugiunt que nubes et minax quod sic uoluere ponto unda recumbit	positive	1.0
+0066	1	12	Romulum post hos prius an quietum Pompili regnum memorem an superbos Tarquini fasces dubito an Catonis nobile letum	negative	-1.0
+0067	1	12	Regulum et Scauros animae que magnae prodigum Paulum superante Poeno gratus insigni referam camena Fabricium que	positive	1.0
+0068	1	12	hunc et incomptis Curium capillis utilem bello tulit et Camillum saeua paupertas et auitus apto cum lare fundus	negative	-1.0
+0069	1	12	crescit occulto uelut arbor aeuo fama Marcelli micat inter omnis Iulium sidus uelut inter ignis luna minores	positive	1.0
+0070	1	12	gentis humanae pater atque custos orte Saturno tibi cura magni Caesaris fatis data (est) tu secundo Caesare regnes	mixed	0.0
+0071	1	12	ille seu Parthos Latio imminentis egerit iusto domitos triumpho siue subiectos Orientis orae Seras et Indos te minor laetum reget aequos orbem tu graui curru quaties Olympum tu parum castis inimica mittes fulmina lucis	positive	1.0
+0072	1	13	cum tu Lydia Telephi ceruicem roseam cerea Telephi laudas bracchia uae meum feruens difficili bile tumet iecur	negative	-0.5
+0073	1	13	tunc nec mens mihi nec color certa sede manet umor et in genas furtim labitur arguens quam lentis penitus macerer ignibus	positive	1.0
+0074	1	13	uror seu tibi candidos turparunt umeros inmodicae mero rixae siue puer furens inpressit memorem dente labris notam	negative	-0.5
+0075	1	13	non si me satis audias speres perpetuum dulcia barbare laedentem oscula quae Venus quinta parte sui nectaris imbuit	positive	1.5
+0076	1	13	felices ter et amplius quos inrupta tenet copula nec malis diuolsus querimoniis suprema citius soluet amor die	positive	0.5
+0077	1	14	o nauis referent in mare te noui fluctus	positive	0.5
+0078	1	14	o quid agis	neutral	0.0
+0079	1	14	fortiter occupa portum	neutral	0.0
+0080	1	14	nonne uides ut nudum remigio latus et malus celeri saucius Africo antemnae que gemant ac sine funibus uix durare carinae possint imperiosius aequor	negative	-1.0
+0081	1	14	non tibi sunt integra lintea non di quos iterum pressa uoces malo	negative	-0.5
+0082	1	14	quamuis Pontica pinus siluae filia nobilis iactes et genus et nomen inutile nil pictis timidus nauita puppibus fidit	negative	-0.5
+0083	1	14	tu nisi uentis debes ludibrium caue	negative	-1.0
+0084	1	14	nuper sollicitum quae mihi taedium nunc desiderium cura que non leuis interfusa nitentis uites aequora Cycladas	negative	-2.5
+0085	1	15	pastor cum traheret per freta nauibus Idaeis Helenen perfidus hospitam ingrato celeris obruit otio uentos ut caneret fera Nereus fata	negative	-2.0
+0086	1	15	mala ducis aui domum quam multo repetet Graecia milite coniurata tuas rumpere nuptias et regnum Priami uetus	negative	-1.0
+0087	1	15	heu heu quantus equis quantus adest uiris sudor quanta moues funera Dardanae genti	mixed	0.0
+0088	1	15	iam galeam Pallas et aegida currus que et rabiem parat	negative	-1.0
+0089	1	15	nequiquam Veneris praesidio ferox pectes caesariem grata que feminis inbelli cithara carmina diuides nequiquam thalamo grauis hastas et calami spicula Cnosii uitabis strepitum que et celerem sequi Aiacem tamen heu serus adulteros crines puluere collines	negative	-0.5
+0090	1	15	non Laertiaden exitium tuae genti non Pylium Nestora respicis	negative	-1.0
+0091	1	15	urgent inpauidi te Salaminius Teucer te Sthenelus sciens pugnae siue opus est imperitare equis non auriga piger	positive	1.0
+0092	1	15	Merionen quoque nosces	neutral	0.0
+0093	1	15	ecce furit te reperire atrox Tydides melior patre quem tu ceruus uti uallis in altera uisum parte lupum graminis inmemor sublimi fugies mollis anhelitu non hoc pollicitus tuae	negative	-0.5
+0094	1	15	iracunda diem proferet Ilio matronis que Phrygum classis Achillei post certas hiemes uret Achaicus ignis Iliacas domos	negative	-1.0
+0095	1	16	o matre pulcra filia pulcrior quem criminosis cumque uoles modum pones iambis siue flamma siue Mari libet Hadriano	positive	1.5
+0096	1	16	non Dindymene non adytis quatit mentem sacerdotum incola Pythius non Liber aeque non acuta sic geminant Corybantes aera tristes ut irae quas neque Noricus deterret ensis nec mare naufragum nec saeuos ignis nec tremendo Iuppiter ipse ruens tumultu	negative	-2.5
+0097	1	16	fertur Prometheus addere principi limo coactus particulam undique desectam et insani leonis uim stomacho adposuisse nostro	mixed	0.0
+0098	1	16	irae Thyesten exitio graui strauere et altis urbibus ultimae stetere causae cur perirent funditus inprimeret que muris hostile aratrum exercitus insolens	negative	-3.5
+0099	1	16	conpesce mentem me quoque pectoris temptauit in dulci iuuenta feruor et in celeres iambos misit furentem nunc ego mitibus mutare quaero tristia dum mihi fias recantatis amica opprobriis animum que reddas	positive	0.5
+0100	1	17	uelox amoenum saepe Lucretilem mutat Lycaeo Faunus et igneam defendit aestatem capellis usque meis pluuios que uentos	neutral	0.0
+0101	1	17	inpune tutum per nemus arbutos quaerunt latentis et thyma deuiae olentis uxores mariti nec uiridis metuunt colubras nec Martialis haediliae lupos utcumque dulci Tyndari fistula ualles et Vsticae cubantis leuia personuere saxa	positive	1.0
+0102	1	17	di me tuentur dis pietas mea et musa cordi est	positive	1.0
+0103	1	17	hic tibi copia manabit ad plenum benigno ruris honorum opulenta cornu	positive	2.5
+0104	1	17	hic in reducta ualle caniculae uitabis aestus et fide Teia dices laborantis in uno Penelopen uitream que Circen	positive	1.0
+0105	1	17	hic innocentis pocula Lesbii duces sub umbra nec Semeleius cum Marte confundet Thyoneus proelia nec metues proteruum suspecta Cyrum ne male dispari incontinentis iniciat manus et scindat haerentem coronam crinibus inmeritam que uestem	negative	-0.5
+0106	1	18	nullam Vare sacra uite prius seueris arborem circa mite solum Tiburis et moenia Catili	positive	2.0
+0107	1	18	siccis omnia nam dura deus proposuit neque mordaces aliter diffugiunt sollicitudines	negative	-1.0
+0108	1	18	quis post uina grauem militiam aut pauperiem crepat	negative	-1.5
+0109	1	18	quis non te potius Bacche pater te que decens Venus	positive	1.0
+0110	1	18	ac ne quis modici transiliat munera Liberi Centaurea monet cum Lapithis rixa super mero debellata monet Sithoniis non leuis Euhius cum fas atque nefas exiguo fine libidinum discernunt auidi	negative	-0.5
+0111	1	18	non ego te candide Bassareu inuitum quatiam nec uariis obsita frondibus sub diuum rapiam	negative	-1.5
+0112	1	18	saeua tene cum Berecyntio cornu tympana quae subsequitur caecus amor sui et tollens uacuum plus nimio gloria uerticem arcani que fides prodiga perlucidior uitro	mixed	0.0
+0113	1	19	mater saeua Cupidinum Thebanae que iubet me Semelae puer et lasciua Licentia finitis animum reddere amoribus	negative	-0.5
+0114	1	19	urit me Glycerae nitor splendentis Pario marmore purius urit grata proteruitas et uoltus nimium lubricus adspici	positive	1.5
+0115	1	19	in me tota ruens Venus Cyprum deseruit nec patitur Scythas et uersis animosum equis Parthum dicere nec quae nihil attinent	positive	1.0
+0116	1	19	hic uiuum mihi caespitem hic uerbenas pueri ponite tura que bimi cum patera meri mactata ueniet lenior hostia	positive	1.0
+0117	1	20	uile potabis modicis Sabinum cantharis Graeca quod ego ipse testa conditum leui datus (est) in theatro cum tibi plausus clare Maecenas eques ut paterni fluminis ripae simul et iocosa redderet laudes tibi Vaticani Montis imago	positive	1.5
+0118	1	20	Caecubum et prelo domitam Caleno tu bibes uuam mea nec Falernae temperant uites neque Formiani pocula colles	neutral	0.0
+0119	1	21	Dianam tenerae dicite uirgines intonsum pueri dicite Cynthium Latonam que supremo dilectam penitus Ioui	neutral	0.0
+0120	1	21	uos laetam fluuiis et nemorum coma quaecumque aut gelido prominet Algido nigris aut Erymanthi siluis aut uiridis Gragi uos Tempe totidem tollite laudibus natalem que mares Delon Apollinis insignem que pharetra fraterna que umerum lyra	positive	2.0
+0121	1	21	hic bellum lacrimosum hic miseram famem pestem que a populo et principe Caesare in Persas atque Britannos uestra motus aget prece	negative	-1.5
+0122	1	22	integer uitae sceleris que purus non eget Mauris iaculis neque arcu nec uenenatis grauida sagittis Fusce pharetra siue per Syrtis iter aestuosas siue facturus per inhospitalem Caucasum uel quae loca fabulosus lambit Hydaspes	positive	0.5
+0123	1	22	namque me silua lupus in Sabina dum meam canto Lalagen et ultra terminum curis uagor expeditis fugit inermem quale portentum neque militaris Daunias latis alit aesculetis nec Iubae tellus generat leonum arida nutrix	negative	-1.0
+0124	1	22	pone me pigris ubi nulla campis arbor aestiua recreatur aura quod latus mundi nebulae malus que Iuppiter urget pone sub curru nimium propinqui solis in terra domibus negata dulce ridentem Lalagen amabo dulce loquentem	positive	1.0
+0125	1	23	uitas inuleo me similis Chloe quaerenti pauidam montibus auiis matrem non sine uano aurarum et siluae metu	negative	-1.5
+0126	1	23	nam seu mobilibus ueris inhorruit aduentus foliis seu uirides rubum dimouere lacertae et corde et genibus tremit	neutral	0.0
+0127	1	23	atqui non ego te tigris ut aspera Gaetulus ue leo frangere persequor tandem desine matrem tempestiua sequi uiro	mixed	0.0
+0128	1	24	quis desiderio sit pudor aut modus tam cari capitis	positive	2.0
+0129	1	24	praecipe lugubris cantus Melpomene cui liquidam pater uocem cum cithara dedit	neutral	0.0
+0130	1	24	ergo Quintilium perpetuus sopor urget cui Pudor et Iustitiae soror incorrupta Fides nuda que Veritas quando ullum inueniet parem	positive	4.5
+0131	1	24	multis ille bonis flebilis occidit nulli flebilior quam tibi Vergili	negative	-1.0
+0132	1	24	tu frustra pius heu non ita creditum poscis Quintilium deos	neutral	0.0
+0133	1	24	quid	neutral	0.0
+0134	1	24	si Threicio blandius Orpheo auditam moderere arboribus fidem num uanae redeat sanguis imagini quam uirga semel horrida non lenis precibus fata recludere nigro conpulerit Mercurius gregi	positive	0.5
+0135	1	24	durum sed leuius fit patientia quidquid corrigere est nefas	negative	-1.5
+0136	1	25	parcius iunctas quatiunt fenestras iactibus crebris iuuenes proterui nec tibi somnos adimunt amat que ianua limen quae prius multum facilis mouebat cardines	positive	0.5
+0137	1	25	audis minus et minus iam me tuo longas pereunte noctes Lydia dormis	neutral	0.0
+0138	1	25	in uicem in uicem moechos anus arrogantis flebis in solo leuis angiportu Thracio bacchante magis sub inter <lunia> <inter> lunia uento cum tibi flagrans amor et libido quae solet matres furiare equorum saeuiet circa iecur ulcerosum non sine questu laeta quod pubes hedera uirenti gaudeat pulla magis atque myrto aridas frondes hiemis sodali dedicet Euro	negative	-0.5
+0139	1	26	Musis amicus tristitiam et metus tradam proteruis in mare Creticum portare uentis quis sub Arcto rex gelidae metuatur orae quid Tiridaten terreat unice securus	negative	-0.5
+0140	1	26	o quae fontibus integris gaudes apricos necte flores necte meo Lamiae coronam Piplei dulcis	positive	1.5
+0141	1	26	nil sine te mei prosunt honores hunc fidibus nouis hunc Lesbio sacrare plectro te que tuas que decet sorores	positive	2.5
+0142	1	27	natis in usum laetitiae scyphis pugnare Thracum est tollite barbarum morem uerecundum que Bacchum sanguineis prohibete rixis	positive	2.5
+0143	1	27	uino et lucernis Medus acinaces immane quantum discrepat inpium lenite clamorem sodales et cubito remanete presso	mixed	0.0
+0144	1	27	uoltis seueri me quoque sumere partem Falerni	neutral	0.0
+0145	1	27	dicat Opuntiae frater Megyllae quo beatus uolnere qua pereat sagitta	mixed	0.0
+0146	1	27	cessat uoluntas	neutral	0.0
+0147	1	27	non alia bibam mercede	positive	1.0
+0148	1	27	quae te cumque domat Venus non erubescendis adurit ignibus ingenuo que semper amore peccas	positive	2.5
+0149	1	27	quidquid habes age depone tutis auribus	positive	0.5
+0150	1	27	a miser quanta laborabas Charybdi digne puer meliore flamma	positive	1.0
+0151	1	27	quae saga quis te soluere Thessalis magus uenenis quis poterit deus	negative	-0.5
+0152	1	27	uix inligatum te triformi Pegasus expediet Chimaera	neutral	0.0
+0153	1	28	te maris et terrae numero que carentis harenae mensorem cohibent Archyta pulueris exigui prope litus parua Matinum munera nec quicquam tibi prodest aerias temptasse domos animo que rotundum percurrisse polum morituro	positive	1.0
+0154	1	28	occidit et Pelopis genitor conuiua deorum Tithonus que remotus in auras et Iouis arcanis Minos admissus habent que Tartara Panthoiden iterum Orco demissum quamuis clipeo Troiana refixo tempora testatus nihil ultra neruos atque cutem morti concesserat atrae iudice te non sordidus auctor naturae ueri que	positive	0.5
+0155	1	28	sed omnis una manet nox et calcanda semel uia leti	negative	-1.0
+0156	1	28	dant alios Furiae toruo spectacula Marti exitio est auidum mare nautis mixta senum ac iuuenum densentur funera nullum saeua caput Proserpina fugit	negative	-2.5
+0157	1	28	me quoque deuexi rapidus comes Orionis Illyricis Notus obruit undis	neutral	0.0
+0158	1	28	at tu nauta uagae ne parce malignus harenae ossibus et capiti inhumato particulam dare sic quodcumque minabitur Eurus fluctibus Hesperiis Venusinae plectantur siluae te sospite multa que merces unde potest tibi defluat aequo ab Ioue Neptuno que sacri custode Tarenti	positive	2.5
+0159	1	28	neglegis inmeritis nocituram postmodo te natis fraudem conmittere	negative	-1.0
+0160	1	28	fors et debita iura uices que superbae te maneant ipsum precibus non linquar inultis te que piacula nulla resoluent	negative	-1.0
+0161	1	28	quamquam festinas non est mora longa licebit iniecto ter puluere curras	neutral	0.0
+0162	1	29	Icci beatis nunc Arabum inuides gazis et acrem militiam paras non ante deuictis Sabaeae regibus horribili que Medo nectis catenas	positive	1.0
+0163	1	29	quae tibi uirginum sponso necato barbara seruiet puer quis ex aula capillis ad cyathum statuetur unctis doctus sagittas tendere Sericas arcu paterno	neutral	0.0
+0164	1	29	quis neget arduis pronos relabi posse riuos montibus et Tiberim reuerti cum tu coemptos undique nobilis libros Panaeti Socraticam et domum mutare loricis Hiberis pollicitus meliora tendis	positive	2.5
+0165	1	30	o Venus regina Cnidi Paphi que sperne dilectam Cypron et uocantis ture te multo Glycerae decoram transfer in aedem	positive	1.0
+0166	1	30	feruidus te cum puer et solutis Gratiae zonis properent que Nymphae et parum comis sine te Iuuentas Mercurius que	positive	1.5
+0167	1	31	quid dedicatum poscit Apollinem uates	neutral	0.0
+0168	1	31	quid orat de patera nouum fundens liquorem	positive	0.5
+0169	1	31	non opimae Sardiniae segetes feracis non aestuosae grata Calabriae armenta non aurum aut ebur Indicum non rura quae Liris quieta mordet aqua taciturnus amnis	positive	2.5
+0170	1	31	premant Calenam falce quibus dedit fortuna uitem diues ut aureis mercator exsiccet culillis uina Syra reparata merce dis carus ipsis quippe ter et quater anno reuisens aequor Atlanticum inpune	positive	2.0
+0171	1	31	me pascunt oliuae me cichorea leues que maluae	neutral	0.0
+0172	1	31	frui paratis et ualido mihi Latoe dones et precor integra cum mente nec turpem senectam degere nec cithara carentem	positive	1.5
+0173	1	32	poscimus si quid uacui sub umbra lusimus te cum quod et hunc in annum uiuat et pluris age dic Latinum barbite carmen Lesbio primum modulate ciui qui ferox bello tamen inter arma siue iactatam religarat udo litore nauim Liberum et Musas Venerem que et illi semper haerentem puerum canebat et Lycum nigris oculis nigro que crine decorum	positive	2.0
+0174	1	32	o decus Phoebi et dapibus supremi grata testudo Iouis o laborum dulce lenimen mihi cumque salue rite uocanti	positive	1.0
+0175	1	33	Albi ne doleas plus nimio memor inmitis Glycerae neu miserabilis decantes elegos cur tibi iunior laesa praeniteat fide	negative	-0.5
+0176	1	33	insignem tenui fronte Lycorida Cyri torret amor Cyrus in asperam declinat Pholoen sed prius <quam> Apulis iungentur capreae lupis <prius> quam turpi Pholoe peccet adultero	negative	-1.5
+0177	1	33	sic uisum (est) Veneri cui placet inparis formas atque animos sub iuga aenea saeuo mittere cum ioco	positive	0.5
+0178	1	33	ipsum me melior cum peteret Venus grata detinuit compede Myrtale libertina fretis acrior Hadriae curuantis Calabros sinus	positive	3.0
+0179	1	34	parcus deorum cultor et infrequens insanientis dum sapientiae consultus erro nunc retrorsum uela dare atque iterare cursus cogor relictos	positive	2.0
+0180	1	34	namque Diespiter igni corusco nubila diuidens plerumque per purum tonantis egit equos uolucrem que currum quo bruta tellus et uaga flumina quo Styx et inuisi horrida Taenari sedes Atlanteus que finis concutitur	negative	-1.5
+0181	1	34	ualet ima summis mutare et insignem attenuat deus obscura promens hinc apicem rapax Fortuna cum stridore acuto sustulit hic posuisse gaudet	neutral	0.0
+0182	1	35	o diua gratum quae regis Antium praesens uel imo tollere de gradu mortale corpus uel superbos uertere funeribus triumphos te pauper ambit sollicita prece ruris colonus te dominam aequoris quicumque Bithyna lacessit Carpathium pelagus carina te Dacus asper te profugi Scythae urbes que gentes que et Latium ferox regum que matres barbarorum et purpurei metuunt tyranni iniurioso ne pede proruas stantem columnam neu populus frequens ad arma cessantis ad arma concitet imperium que frangat	negative	-5.5
+0183	1	35	te semper anteit saeua Necessitas clauos trabalis et cuneos manu gestans aena nec seuerus uncus abest liquidum que plumbum te Spes et albo rara Fides colit uelata panno nec comitem abnegat utcumque mutata potentis ueste domos inimica linquis at uolgus infidum et meretrix retro periura cedit diffugiunt cadis cum faece siccatis amici ferre iugum pariter dolosi serues iturum Caesarem in ultimos orbis Britannos et iuuenum recens examen Eois timendum partibus Oceano que Rubro	negative	-1.5
+0184	1	35	heu heu cicatricum et sceleris pudet fratrum que	negative	-1.5
+0185	1	35	quid nos dura refugimus aetas	negative	-0.5
+0186	1	35	quid intactum nefasti liquimus	neutral	0.0
+0187	1	35	unde manum iuuentus metu deorum continuit	negative	-1.0
+0188	1	35	quibus pepercit aris	neutral	0.0
+0189	1	35	o utinam noua incude diffingas retusum in Massagetas Arabas que ferrum	positive	0.5
+0190	1	36	et ture et fidibus iuuat placare et uituli sanguine debito custodes Numidae deos qui nunc Hesperia sospes ab ultima caris multa sodalibus nulli plura tamen diuidit oscula quam dulci Lamiae memor actae non alio rege puertiae mutatae que simul togae	positive	5.0
+0191	1	36	Cressa ne careat pulcra dies nota neu promptae modus amphorae neu morem in Salium sit requies pedum neu multi Damalis meri Bassum Threicia uincat amystide neu desint epulis rosae neu uiuax apium neu breue lilium	positive	2.0
+0192	1	36	omnes in Damalin putris deponent oculos nec Damalis nouo diuelletur adultero lasciuis hederis ambitiosior	negative	-1.0
+0193	1	37	nunc est bibendum nunc pede libero pulsanda tellus nunc Saliaribus ornare puluinar deorum tempus erat dapibus sodales	positive	1.5
+0194	1	37	antehac nefas depromere Caecubum cellis auitis dum Capitolio regina dementis ruinas funus et imperio parabat contaminato cum grege turpium morbo uirorum quidlibet inpotens sperare fortuna que dulci ebria	negative	-5.0
+0195	1	37	sed minuit furorem uix una sospes nauis ab ignibus mentem que lymphatam Mareotico redegit in ueros timores Caesar ab Italia uolantem remis adurgens accipiter uelut mollis columbas aut leporem citus uenator in campis niualis Haemoniae daret ut catenis fatale monstrum quae generosius perire quaerens nec muliebriter expauit ensem nec latentis classe cita reparauit oras ausa et iacentem uisere regiam uoltu sereno fortis et asperas tractare serpentes ut atrum corpore conbiberet uenenum deliberata morte ferocior saeuis Liburnis scilicet inuidens priuata deduci superbo non humilis mulier triumpho	negative	-3.0
+0196	1	38	Persicos odi puer adparatus displicent nexae philyra coronae mitte sectari rosa quo locorum sera moretur	positive	1.0
+0197	1	38	simplici myrto nihil adlabores sedulus curo neque te ministrum dedecet myrtus neque me sub arta uite bibentem	positive	0.5
+0198	2	1	motum ex Metello consule ciuicum belli que causas et uitia et modos ludum que Fortunae grauis que principum amicitias et arma nondum expiatis uncta cruoribus periculosae plenum opus aleae tractas et incedis per ignis suppositos cineri doloso	positive	1.0
+0199	2	1	paulum seuerae musa tragoediae desit theatris mox ubi publicas res ordinaris grande munus Cecropio repetes coturno insigne maestis praesidium reis et consulenti Pollio curiae cui laurus aeternos honores Delmatico peperit triumpho	mixed	0.0
+0200	2	1	iam nunc minaci murmure cornuum perstringis auris iam litui strepunt iam fulgor armorum fugacis terret equos equitum que uoltus	neutral	0.0
+0201	2	1	audire magnos iam uideor duces non indecoro puluere sordidos et cuncta terrarum subacta praeter atrocem animum Catonis	negative	-1.0
+0202	2	1	Iuno et deorum quisquis amicior Afris inulta cesserat inpotens tellure uictorum nepotes rettulit inferias Iugurthae	negative	-0.5
+0203	2	1	quis non Latino sanguine pinguior campus sepulcris inpia proelia testatur auditum que Medis Hesperiae sonitum ruinae	negative	-2.0
+0204	2	1	qui gurges aut quae flumina lugubris ignara belli	negative	-1.0
+0205	2	1	quod mare Dauniae non decolorauere caedes	negative	-0.5
+0206	2	1	quae caret ora cruore nostro	neutral	0.0
+0207	2	1	sed ne relictis Musa procax iocis Ceae retractes munera neniae me cum Dionaeo sub antro quaere modos leuiore plectro	negative	-0.5
+0208	2	2	nullus argento color est auaris abdito terris inimice lamnae Crispe Sallusti nisi temperato splendeat usu	negative	-2.0
+0209	2	2	uiuet extento Proculeius aeuo notus in fratres animi paterni illum aget pinna metuente solui Fama superstes	positive	2.0
+0210	2	2	latius regnes auidum domando spiritum quam si Libyam remotis Gadibus iungas et uterque Poenus seruiat uni crescit indulgens sibi dirus hydrops nec sitim pellit nisi causa morbi fugerit uenis et aquosus albo corpore languor	negative	-2.5
+0211	2	2	redditum Cyri solio Prahaten dissidens plebi numero beatorum eximit Virtus populum que falsis dedocet uti uocibus regnum et diadema tutum deferens uni propriam que laurum quisquis ingentis oculo inretorto spectat aceruos	positive	1.0
+0212	2	3	aequam memento rebus in arduis seruare mentem non secus in bonis ab insolenti temperatam laetitia moriture Delli seu maestus omni tempore uixeris seu te in remoto gramine per dies festos reclinatum bearis interiore nota Falerni	positive	1.0
+0213	2	3	quo pinus ingens alba que populus umbram hospitalem consociare amant ramis	negative	-0.5
+0214	2	3	quid obliquo laborat lympha fugax trepidare riuo	neutral	0.0
+0215	2	3	huc uina et unguenta et nimium breuis flores amoenae ferre iube rosae dum res et aetas et sororum fila trium patiuntur atra	positive	0.5
+0216	2	3	cedes coemptis saltibus et domo uilla que flauos quam Tiberis lauit cedes et exstructis in altum diuitiis potietur heres	positive	0.5
+0217	2	3	diues ne prisco natus ab Inacho nil interest an pauper et infima de gente sub diuo moreris uictima nil miserantis Orci omnes eodem cogimur omnium uersatur urna serius ocius sors exitura et nos in aeternum exilium inpositura cumbae	negative	-2.0
+0218	2	4	ne sit ancillae tibi amor pudori Xanthia Phoceu prius insolentem serua Briseis niueo colore mouit Achillem mouit Aiacem Telamone natum forma captiuae dominum Tecmessae arsit Atrides medio in triumpho uirgine rapta barbarae postquam cecidere turmae Thessalo uictore et ademptus Hector tradidit fessis leuiora tolli Pergama Grais	positive	1.5
+0219	2	4	nescias an te generum beati Phyllidis flauae decorent parentes regium certe genus et penatis maeret iniquos	positive	0.5
+0220	2	4	crede non illam tibi de scelesta plebe delectam (esse) neque sic fidelem sic lucro auersam potuisse nasci matre pudenda	negative	-0.5
+0221	2	4	bracchia et uoltum teretes que suras integer laudo fuge suspicari cuius octauum trepidauit aetas claudere lustrum	positive	0.5
+0222	2	5	nondum subacta ferre iugum ualet ceruice nondum munia conparis aequare nec tauri ruentis in uenerem tolerare pondus	positive	1.0
+0223	2	5	circa uirentis est animus tuae campos iuuencae nunc fluuiis grauem solantis aestum nunc in udo ludere cum uitulis salicto praegestientis	mixed	0.0
+0224	2	5	tolle cupidinem inmitis uuae iam tibi liuidos distinguet autumnus racemos purpureo uarius colore	negative	-1.5
+0225	2	5	iam te sequetur currit enim ferox aetas et illi quos tibi dempserit adponet annos iam proterua fronte petet Lalage maritum dilecta quantum non Pholoe fugax non Chloris albo sic umero nitens ut pura nocturno renidet luna mari Cnidius ue Gyges quem si puellarum insereres choro mire sagacis falleret hospites discrimen obscurum solutis crinibus ambiguo que uoltu	negative	-3.0
+0226	2	6	Septimi Gadis aditure me cum et Cantabrum indoctum iuga ferre nostra et barbaras Syrtis ubi Maura semper aestuat unda Tibur Argeo positum colono sit meae sedes utinam senectae sit modus lasso maris et uiarum militiae que	positive	0.5
+0227	2	6	unde si Parcae prohibent iniquae dulce pellitis ouibus Galaesi flumen et regnata petam Laconi rura Phalantho	negative	-0.5
+0228	2	6	ille terrarum mihi praeter omnis angulus ridet ubi non Hymetto mella decedunt uiridi que certat baca Venafro uer ubi longum tepidas que praebet Iuppiter brumas et amicus Aulon fertili Baccho minimum Falernis inuidet uuis	positive	2.0
+0229	2	6	ille te me cum locus et beatae postulant arces ibi tu calentem debita sparges lacrima fauillam uatis amici	positive	2.0
+0230	2	7	o saepe me cum tempus in ultimum deducte Bruto militiae duce quis te redonauit Quiritem dis patriis Italo que caelo Pompei meorum prime sodalium cum quo morantem saepe diem mero fregi coronatus nitentis malobathro Syrio capillos	positive	2.0
+0231	2	7	te cum Philippos et celerem fugam sensi relicta non bene parmula cum fracta (est) uirtus et minaces turpe solum tetigere mento sed me per hostis Mercurius celer denso pauentem sustulit aere te rursus in bellum resorbens unda fretis tulit aestuosis	negative	-1.5
+0232	2	7	ergo obligatam redde Ioui dapem longa que fessum militia latus depone sub lauru mea nec parce cadis tibi destinatis	neutral	0.0
+0233	2	7	obliuioso leuia Massico ciboria exple funde capacibus unguenta de conchis	neutral	0.0
+0234	2	7	quis udo deproperare apio coronas curat ue myrto	neutral	0.0
+0235	2	7	quem Venus arbitrum dicet bibendi	positive	1.0
+0236	2	7	non ego sanius bacchabor Edonis recepto dulce mihi furere est amico	positive	1.5
+0237	2	8	ulla si iuris tibi peierati poena Barine nocuisset umquam dente si nigro fieres uel uno turpior ungui crederem sed tu simul obligasti perfidum uotis caput enitescis pulchrior multo iuuenum que prodis publica cura	negative	-2.5
+0238	2	8	expedit matris cineres opertos fallere et toto taciturna noctis signa cum caelo gelida que diuos morte carentis	negative	-0.5
+0239	2	8	ridet hoc inquam Venus ipsa rident simplices Nymphae ferus et Cupido semper ardentis acuens sagittas cote cruenta	positive	0.5
+0240	2	8	adde quod pubes tibi crescit omnis seruitus crescit noua nec priores inpiae tectum dominae relinquunt saepe minati	negative	-0.5
+0241	2	8	te suis matres metuunt iuuencis te senes parci miserae que nuper uirgines nuptae tua ne retardet aura maritos	mixed	0.0
+0242	2	9	non semper imbres nubibus hispidos manant in agros aut Mare Caspium uexant inaequales procellae usque nec Armeniis in oris amice Valgi stat glacies iners mensis per omnis aut Aquilonibus querqueta Gargani laborant et foliis uiduantur orni tu semper urges flebilibus modis Mysten ademptum nec tibi uespero surgente decedunt amores nec rapidum fugiente solem	positive	0.5
+0243	2	9	at non ter aeuo functus amabilem plorauit omnis Antilochum senex annos nec inpubem parentes Troilon aut Phrygiae sorores fleuere semper	positive	1.5
+0244	2	9	desine mollium tandem querellarum et potius noua cantemus Augusti tropaea Caesaris et rigidum Niphaten Medum que flumen gentibus additum uictis minores uoluere uertices intra que praescriptum Gelonos exiguis equitare campis	positive	1.5
+0245	2	10	rectius uiues Licini neque altum semper urgendo neque dum procellas cautus horrescis nimium premendo litus iniquum	mixed	0.0
+0246	2	10	auream quisquis mediocritatem diligit tutus caret obsoleti sordibus tecti caret inuidenda sobrius aula	negative	-0.5
+0247	2	10	saepius uentis agitatur ingens pinus et celsae grauiore casu decidunt turres feriunt que summos fulgura montis	negative	-1.0
+0248	2	10	sperat infestis metuit secundis alteram sortem bene praeparatum pectus informis hiemes reducit Iuppiter idem submouet non si male nunc et olim sic erit quondam cithara tacentem suscitat Musam neque semper arcum tendit Apollo	negative	-3.0
+0249	2	10	rebus angustis animosus atque fortis adpare sapienter idem contrahes uento nimium secundo turgida uela	positive	0.5
+0250	2	11	quid bellicosus Cantaber et Scythes Hirpine Quincti cogitet Hadria diuisus obiecto remittas quaerere nec trepides in usum poscentis aeui pauca	neutral	0.0
+0251	2	11	fugit retro leuis iuuentas et decor arida pellente lasciuos amores canitie facilem que somnum non semper idem floribus est honor uernis neque uno luna rubens nitet uoltu quid aeternis minorem consiliis animum fatigas	positive	5.0
+0252	2	11	cur non sub alta uel platano uel hac pinu iacentes sic temere et rosa canos odorati capillos dum licet Assyria que nardo potamus uncti	positive	0.5
+0253	2	11	dissipat Euhius curas edacis	negative	-1.0
+0254	2	11	quis puer ocius restinguet ardentis Falerni pocula praetereunte lympha	positive	0.5
+0255	2	11	quis deuium scortum eliciet domo Lyden	neutral	0.0
+0256	2	11	eburna dic age cum lyra maturet in comptum Lacaenae more comam religata nodum	positive	0.5
+0257	2	12	nolis longa ferae bella Numantiae nec durum Hannibalem nec Siculum mare Poeno purpureum sanguine mollibus aptari citharae modis nec saeuos Lapithas et nimium mero Hylaeum domitos que Herculea manu Telluris iuuenes unde periculum fulgens contremuit domus Saturni ueteris tu que pedestribus dices historiis proelia Caesaris Maecenas melius ducta que per uias regum colla minacium	negative	-3.5
+0258	2	12	me dulcis dominae Musa Licymniae cantus me uoluit dicere lucidum fulgentis oculos et bene mutuis fidum pectus amoribus quam nec ferre pedem dedecuit choris nec certare ioco nec dare bracchia ludentem nitidis uirginibus sacro Dianae celebris die	positive	3.5
+0259	2	12	num tu quae tenuit diues Achaemenes aut pinguis Phrygiae Mygdonias opes permutare uelis crine Licymniae plenas aut Arabum domos cum flagrantia detorquet ad oscula ceruicem aut facili saeuitia negat quae poscente magis gaudeat eripi interdum rapere occupet	mixed	0.0
+0260	2	13	ille et nefasto te posuit die quicumque primum et sacrilega manu produxit arbos in nepotum perniciem opprobrium que pagi illum et parentis crediderim sui fregisse ceruicem et penetralia sparsisse nocturno cruore hospitis ille uenena Colcha et quidquid usquam concipitur nefas tractauit agro qui statuit meo te triste lignum te caducum in domini caput inmerentis	negative	-3.0
+0261	2	13	quid quisque uitet numquam homini satis cautum <est> <cautum> est in horas	neutral	0.0
+0262	2	13	nauita Bosphorum Poenus perhorrescit neque ultra caeca timet aliunde fata miles sagittas et celerem fugam Parthi catenas Parthus et Italum robur sed inprouisa leti uis rapuit rapiet que gentis	negative	-1.5
+0263	2	13	quam paene furuae regna Proserpinae et iudicantem uidimus Aeacum sedes que discretas piorum et Aeoliis fidibus querentem Sappho puellis de popularibus et te sonantem plenius aureo Alcaee plectro dura nauis dura fugae mala dura belli	negative	-1.5
+0264	2	13	utrumque sacro digna silentio mirantur umbrae dicere sed magis pugnas et exactos tyrannos densum umeris bibit aure uolgus	positive	1.0
+0265	2	13	quid mirum ubi illis carminibus stupens demittit atras belua centiceps auris et intorti capillis Eumenidum recreantur angues	positive	1.0
+0266	2	13	quin et Prometheus et Pelopis parens dulci laborem decipitur sono nec curat Orion leones aut timidos agitare lyncas	mixed	0.0
+0267	2	14	eheu fugaces Postume Postume labuntur anni nec pietas moram rugis et instanti senectae adferet indomitae que morti non si trecenis quotquot eunt dies amice places inlacrimabilem Plutona tauris qui ter amplum Geryonen Tityon que tristi conpescit unda scilicet omnibus quicumque terrae munere uescimur enauiganda siue reges siue inopes erimus coloni	negative	-0.5
+0268	2	14	frustra cruento Marte carebimus fractis que rauci fluctibus Hadriae frustra per autumnos nocentem corporibus metuemus Austrum uisendus ater flumine languido Cocytos errans et Danai genus infame damnatus que longi Sisyphus Aeolides laboris linquenda tellus et domus et placens uxor neque harum quas colis arborum te praeter inuisas cupressos ulla breuem dominum sequetur	negative	-2.0
+0269	2	14	absumet heres Caecuba dignior seruata centum clauibus et mero tinguet pauimentum superbo pontificum potiore cenis	mixed	0.0
+0270	2	15	iam pauca aratro iugera regiae moles relinquent undique latius extenta uisentur Lucrino stagna lacu platanus que caelebs euincet ulmos	neutral	0.0
+0271	2	15	tum uiolaria et myrtus et omnis copia narium spargent oliuetis odorem fertilibus domino priori tum spissa ramis laurea feruidos excludet ictus	positive	1.5
+0272	2	15	non ita Romuli praescriptum (erat) et intonsi Catonis auspiciis ueterum que norma priuatus illis census erat breuis commune magnum nulla decempedis metata priuatis opacam porticus excipiebat Arcton nec fortuitum spernere caespitem leges sinebant oppida publico sumptu iubentes et deorum templa nouo decorare saxo	positive	1.5
+0273	2	16	otium diuos rogat in patenti prensus Aegaeo simul atra nubes condidit lunam neque certa fulgent sidera nautis otium bello furiosa Thrace otium Medi pharetra decori Grosphe non gemmis neque purpura ue <nale> <ue> nale nec auro	positive	2.5
+0274	2	16	non enim gazae neque consularis submouet lictor miseros tumultus mentis et curas laqueata circum tecta uolantis	negative	-1.0
+0275	2	16	uiuitur paruo bene cui paternum splendet in mensa tenui salinum nec leuis somnos timor aut cupido sordidus aufert	negative	-1.5
+0276	2	16	quid breui fortes iaculamur aeuo multa	positive	0.5
+0277	2	16	quid terras alio calentis sole mutamus	neutral	0.0
+0278	2	16	patriae quis exsul se quoque fugit	negative	-1.0
+0279	2	16	scandit aeratas uitiosa nauis Cura nec turmas equitum relinquit ocior ceruis et agente nimbos ocior Euro	negative	-1.0
+0280	2	16	laetus in praesens animus quod ultra est oderit curare et amara lento temperet risu nihil est ab omni parte beatum	positive	2.5
+0281	2	16	abstulit clarum cita mors Achillem longa Tithonum minuit senectus et mihi forsan tibi quod negarit porriget hora	negative	-0.5
+0282	2	16	te greges centum Siculae que circum <mugiunt> <circum> mugiunt uaccae tibi tollit hinnitum apta quadrigis equa te bis Afro murice tinctae uestiunt lanae mihi parua rura et spiritum Graiae tenuem Camenae Parca non mendax dedit et malignum spernere uolgus	negative	-2.0
+0283	2	17	cur me querelis exanimas tuis	negative	-0.5
+0284	2	17	nec dis amicum est nec mihi te prius obire Maecenas mearum grande decus columen que rerum	positive	1.0
+0285	2	17	a te meae si partem animae rapit maturior uis quid moror altera nec carus aeque nec superstes integer	positive	3.5
+0286	2	17	ille dies utramque ducet ruinam	neutral	0.0
+0287	2	17	non ego perfidum dixi sacramentum ibimus ibimus utcumque praecedes supremum carpere iter comites parati	negative	-0.5
+0288	2	17	me nec Chimaerae spiritus igneae nec si resurgat centimanus Gyges diuellet umquam sic potenti Iustitiae placitum (est) que Parcis	positive	2.0
+0289	2	17	seu Libra seu me Scorpios adspicit formidolosus pars uiolentior natalis horae seu tyrannus Hesperiae Capricornus undae utrumque nostrum incredibili modo consentit astrum te Iouis inpio tutela Saturno refulgens eripuit uolucris que Fati tardauit alas cum populus frequens laetum theatris ter crepuit sonum me truncus inlapsus cerebro sustulerat nisi Faunus ictum dextra leuasset Mercurialium custos uirorum	negative	-1.5
+0290	2	17	reddere uictimas aedem que uotiuam memento nos humilem feriemus agnam	neutral	0.0
+0291	2	18	non ebur neque aureum mea renidet in domo lacunar non trabes Hymettiae premunt columnas ultima recisas Africa neque Attali ignotus heres regiam occupaui nec Laconicas mihi trahunt honestae purpuras clientae	positive	1.0
+0292	2	18	at fides et ingeni benigna uena est pauperem que diues me petit nihil supra deos lacesso nec potentem amicum largiora flagito satis beatus unicis Sabinis	positive	5.0
+0293	2	18	truditur dies die nouae que pergunt interire lunae tu secanda marmora locas sub ipsum funus et sepulcri inmemor struis domos maris que Bais obstrepentis urges submouere litora parum locuples continente ripa quid quod usque proximos reuellis agri terminos et ultra limites clientium salis auarus	negative	-1.0
+0294	2	18	pellitur paternos in sinu ferens deos et uxor et uir sordidos que natos	negative	-0.5
+0295	2	18	nulla certior tamen rapacis Orci fine destinata aula diuitem manet erum	positive	1.0
+0296	2	18	quid ultra tendis	neutral	0.0
+0297	2	18	aequa tellus pauperi recluditur regum que pueris nec satelles Orci callidum Promethea reuexit auro captus	positive	1.0
+0298	2	18	hic superbum Tantalum atque Tantali genus coercet hic leuare functum pauperem laboribus uocatus atque non uocatus audit	negative	-2.5
+0299	2	19	Bacchum in remotis carmina rupibus uidi docentem credite posteri Nymphas que discentis et auris capripedum Satyrorum acutas	neutral	0.0
+0300	2	19	euhoe recenti mens trepidat metu pleno que Bacchi pectore turbidum laetatur euhoe parce Liber parce graui metuende thyrso	negative	-0.5
+0301	2	19	fas peruicacis est mihi Thyiadas uini que fontem lactis et uberes cantare riuos atque truncis lapsa cauis iterare mella fas et beatae coniugis additum stellis honorem tecta que Penthei disiecta non leni ruina Thracis et exitium Lycurgi	positive	3.0
+0302	2	19	tu flectis amnis tu mare barbarum tu separatis uuidus in iugis nodo coerces uiperino Bistonidum sine fraude crinis	negative	-1.0
+0303	2	19	tu cum parentis regna per arduum cohors gigantum scanderet inpia Rhoetum retorsisti leonis unguibus horribili que mala quamquam choreis aptior et iocis ludo que dictus non sat idoneus pugnae ferebaris sed idem pacis eras medius que belli	negative	-1.5
+0304	2	19	te uidit insons Cerberus aureo cornu decorum leniter atterens caudam et recedentis trilingui ore pedes tetigit que crura	positive	1.5
+0305	2	20	non usitata nec tenui ferar pinna biformis per liquidum aethera uates neque in terris morabor longius inuidia que maior urbis relinquam	negative	-0.5
+0306	2	20	non ego pauperum sanguis parentum non ego quem uocas dilecte Maecenas obibo nec Stygia cohibebor unda	negative	-0.5
+0307	2	20	iam iam iam iam residunt cruribus asperae pelles et album mutor in alitem superne nascuntur que leues per digitos umeros que plumae	negative	-0.5
+0308	2	20	iam Daedaleo notior Icaro uisam gementis litora Bosphori Syrtis que Gaetulas canorus ales Hyperboreos que campos me Colchus et qui dissimulat metum Marsae cohortis Dacus et ultimi noscent Geloni me peritus discet Hiber Rhodani que potor	negative	-1.0
+0309	2	20	absint inani funere neniae luctus que turpes et querimoniae conpesce clamorem ac sepulcri mitte superuacuos honores	negative	-2.0
+0310	3	1	odi profanum uolgus et arceo	neutral	0.0
+0311	3	1	fauete linguis carmina non prius audita Musarum sacerdos uirginibus pueris que canto	negative	-0.5
+0312	3	1	regum timendorum in proprios greges reges in ipsos imperium est Iouis clari Giganteo triumpho cuncta supercilio mouentis	positive	0.5
+0313	3	1	est ut uiro uir latius ordinet arbusta sulcis hic generosior descendat in campum petitor moribus hic melior que fama contendat illi turba clientium sit maior aequa lege Necessitas sortitur insignis et imos omne capax mouet urna nomen	positive	5.5
+0314	3	1	destrictus ensis cui super inpia ceruice pendet non Siculae dapes dulcem elaborabunt saporem non auium citharae que cantus somnum reducent somnus agrestium lenis uirorum non humilis domos fastidit umbrosam que ripam non Zephyris agitata tempe	positive	2.0
+0315	3	1	desiderantem quod satis est neque tumultuosum sollicitat mare nec saeuus Arcturi cadentis impetus aut orientis Haedi non uerberatae grandine uineae fundus que mendax arbore nunc aquas culpante nunc torrentia agros sidera nunc hiemes iniquas	negative	-2.5
+0316	3	1	contracta pisces aequora sentiunt iactis in altum molibus huc frequens caementa demittit redemptor cum famulis dominus que terrae fastidiosus sed Timor et Minae scandunt eodem quo dominus neque decedit aerata triremi et post equitem sedet atra Cura	negative	-3.0
+0317	3	1	quod si dolentem nec Phrygius lapis nec purpurarum sidere clarior delenit usus nec Falerna uitis Achaemenium que costum cur inuidendis postibus et nouo sublime ritu moliar atrium	positive	1.5
+0318	3	1	cur ualle permutem Sabina diuitias operosiores	positive	0.5
+0319	3	2	angustam amice pauperiem pati robustus acri militia puer condiscat et Parthos ferocis uexet eques metuendus hasta uitam que sub diuo et trepidis agat in rebus	negative	-2.0
+0320	3	2	illum ex moenibus hosticis matrona bellantis tyranni prospiciens et adulta uirgo suspiret eheu ne rudis agminum sponsus lacessat regius asperum tactu leonem quem cruenta per medias rapit ira caedes	negative	-5.0
+0321	3	2	dulce et decorum est pro patria mori mors et fugacem persequitur uirum nec parcit inbellis iuuentae poplitibus timido que tergo	negative	-1.5
+0322	3	2	uirtus repulsae nescia sordidae intaminatis fulget honoribus nec sumit aut ponit securis arbitrio popularis aurae uirtus recludens inmeritis mori caelum negata temptat iter uia coetus que uolgaris et udam spernit humum fugiente pinna	positive	1.5
+0323	3	2	est et fideli tuta silentio merces uetabo qui Cereris sacrum uolgarit arcanae sub isdem sit trabibus fragilem que me cum soluat phaselon saepe Diespiter neglectus incesto addidit integrum raro antecedentem scelestum deseruit pede Poena claudo	positive	0.5
+0324	3	3	iustum et tenacem propositi uirum non ciuium ardor praua iubentium non uoltus instantis tyranni mente quatit solida neque Auster dux inquieti turbidus Hadriae nec fulminantis magna manus Iouis si fractus inlabatur orbis inpauidum ferient ruinae	positive	3.5
+0325	3	3	hac arte Pollux et uagus Hercules enisus arcis attigit igneas quos inter Augustus recumbens purpureo bibet ore nectar hac te merentem Bacche pater tuae uexere tigres indocili iugum collo trahentes hac Quirinus Martis equis Acheronta fugit gratum elocuta consiliantibus Iunone diuis Ilion Ilion fatalis incestus que iudex et mulier peregrina uertit in puluerem ex quo destituit deos mercede pacta Laomedon mihi castae que damnatum Mineruae cum populo et duce fraudulento	positive	4.0
+0326	3	3	iam nec Lacaenae splendet adulterae famosus hospes nec Priami domus periura pugnaces Achiuos Hectoreis opibus refringit nostris que ductum seditionibus bellum resedit protinus et grauis iras et inuisum nepotem Troica quem peperit sacerdos Marti redonabo	negative	-3.0
+0327	3	3	illum ego lucidas inire sedes discere nectaris sucos et adscribi quietis ordinibus patiar deorum	positive	0.5
+0328	3	3	dum longus inter saeuiat Ilion Romam que pontus qualibet exsules in parte regnanto beati dum Priami Paridis que busto insultet armentum et catulos ferae celent inultae stet Capitolium fulgens triumphatis que possit Roma ferox dare iura Medis	negative	-0.5
+0329	3	3	horrenda late nomen in ultimas extendat oras qua medius liquor secernit Europen ab Afro qua tumidus rigat arua Nilus	negative	-0.5
+0330	3	3	aurum inrepertum et sic melius situm cum terra celat spernere fortior quam cogere humanos in usus omne sacrum rapiente dextra quicumque mundo terminus obstitit hunc tanget armis uisere gestiens qua parte debacchentur ignes qua nebulae pluuii que rores	positive	1.5
+0331	3	3	sed bellicosis fata Quiritibus hac lege dico ne nimium pii rebus que fidentes auitae tecta uelint reparare Troiae	positive	0.5
+0332	3	3	Troiae renascens alite lugubri fortuna tristi clade iterabitur ducente uictrices cateruas coniuge me Iouis et sorore	negative	-2.0
+0333	3	3	ter si resurgat murus aeneus auctore Phoebo ter pereat meis excisus Argiuis ter uxor capta uirum pueros que ploret	positive	0.5
+0334	3	3	non hoc iocosae conueniet lyrae	neutral	0.0
+0335	3	3	quo Musa tendis	neutral	0.0
+0336	3	3	desine peruicax referre sermones deorum et magna modis tenuare paruis	mixed	0.0
+0337	3	4	descende caelo et dic age tibia regina longum Calliope melos seu uoce nunc mauis acuta seu fidibus cithara ue Phoebi	positive	1.5
+0338	3	4	auditis	neutral	0.0
+0339	3	4	an me ludit amabilis insania	mixed	0.0
+0340	3	4	audire et uideor pios errare per lucos amoenae quos et aquae subeunt et aurae	positive	1.0
+0341	3	4	me fabulosae Volture in Apulo nutricis extra limina Pulliae ludo fatigatum que somno fronde noua puerum palumbes texere mirum quod foret omnibus quicumque celsae nidum Aceruntiae saltus que Bantinos et aruum pingue tenent humilis Forenti ut tuto ab atris corpore uiperis dormirem et ursis ut premerer sacra lauro que conlata que myrto non sine dis animosus infans	positive	2.5
+0342	3	4	uester Camenae uester in arduos tollor Sabinos seu mihi frigidum Praeneste seu Tibur supinum seu liquidae placuere Baiae	neutral	0.0
+0343	3	4	uestris amicum fontibus et choris non me Philippis uersa acies retro deuota non extinxit arbor nec Sicula Palinurus unda	positive	1.0
+0344	3	4	utcumque me cum uos eritis libens insanientem nauita Bosphorum temptabo et urentis harenas litoris Assyrii uiator uisam Britannos hospitibus feros et laetum equino sanguine Concanum uisam pharetratos Gelonos et Scythicum inuiolatus amnem	positive	1.0
+0345	3	4	uos Caesarem altum militia simul fessas cohortes abdidit oppidis finire quaerentem labores Pierio recreatis antro uos lene consilium et datis et dato gaudetis almae	positive	2.0
+0346	3	4	scimus ut inpios Titanas immanem que turbam fulmine sustulerit caduco qui terram inertem qui mare temperat uentosum et urbis regna que tristia diuos que mortalis que turmas imperio regit unus aequo	negative	-2.0
+0347	3	4	magnum illa terrorem intulerat Ioui fidens iuuentus horrida bracchiis fratres que tendentes opaco Pelion inposuisse Olympo	negative	-2.0
+0348	3	4	sed quid Typhoeus et ualidus Mimas aut quid minaci Porphyrion statu quid Rhoetus euolsis que truncis Enceladus iaculator audax contra sonantem Palladis aegida possent ruentes	positive	1.0
+0349	3	4	hinc auidus stetit Volcanus hinc matrona Iuno et numquam umeris positurus arcum qui rore puro Castaliae lauit crinis solutos qui Lyciae tenet dumeta natalem que siluam Delius et Patareus Apollo	positive	0.5
+0350	3	4	uis consili expers mole ruit sua uim temperatam di quoque prouehunt in maius idem odere uiris omne nefas animo mouentis	positive	3.0
+0351	3	4	testis mearum centimanus Giges sententiarum notus et integrae temptator Orion Dianae uirginea domitus sagitta	positive	0.5
+0352	3	4	iniecta monstris Terra dolet suis maeret que partus fulmine luridum missos ad Orcum nec peredit inpositam celer ignis Aetnen incontinentis nec Tityi iecur reliquit ales nequitiae additus custos amatorem trecentae Pirithoum cohibent catenae	negative	-1.5
+0353	3	5	caelo tonantem credidimus Iouem regnare praesens diuus habebitur Augustus adiectis Britannis imperio grauibus que Persis	positive	1.0
+0354	3	5	miles ne Crassi coniuge barbara turpis maritus uixit et hostium pro curia inuersi que mores consenuit socerorum in armis sub rege Medo Marsus et Apulus anciliorum et nominis et togae oblitus aeternae que Vestae incolumi Ioue et urbe Roma	negative	-2.0
+0355	3	5	hoc cauerat mens prouida Reguli dissentientis condicionibus foedis et exemplo trahenti perniciem ueniens in aeuum si non periret inmiserabilis captiua pubes signa ego Punicis adfixa delubris et arma militibus sine caede dixit derepta uidi uidi ego ciuium retorta tergo bracchia libero portas que non clausas et arua Marte coli populata nostro	negative	-0.5
+0356	3	5	auro repensus scilicet acrior miles redibit flagitio additis damnum	negative	-1.5
+0357	3	5	neque amissos colores lana refert medicata fuco nec uera uirtus cum semel excidit curat reponi deterioribus si pugnat extricata densis cerua plagis erit ille fortis qui perfidis se credidit hostibus et Marte Poenos proteret altero qui lora restrictis lacertis sensit iners timuit que mortem	negative	-2.0
+0358	3	5	hic unde uitam sumeret inscius pacem duello miscuit o pudor o magna Carthago probrosis altior Italiae ruinis	positive	0.5
+0359	3	5	fertur pudicae coniugis osculum paruos que natos ut capitis minor ab se remouisse et uirilem toruus humi posuisse uoltum donec labantis consilio patres firmaret auctor numquam alias dato inter que maerentis amicos egregius properaret exul	positive	1.5
+0360	3	5	atqui sciebat quae sibi barbarus tortor pararet non aliter tamen dimouit obstantis propinquos et populum reditus morantem quam si clientum longa negotia diiudicata lite relinqueret tendens Venafranos in agros aut Lacedaemonium Tarentum	negative	-2.0
+0361	3	6	delicta maiorum inmeritus lues Romane donec templa refeceris aedis que labentis deorum et foeda nigro simulacra fumo	negative	-2.0
+0362	3	6	dis te minorem quod geris imperas	neutral	0.0
+0363	3	6	hinc omne principium huc refer exitum di multa neglecti dederunt Hesperiae mala luctuosae	negative	-2.0
+0364	3	6	iam bis Monaeses et Pacori manus inauspicatos contudit impetus nostros et adiecisse praedam torquibus exiguis renidet paene occupatam seditionibus deleuit urbem Dacus et Aethiops hic classe formidatus ille missilibus melior sagittis	positive	1.5
+0365	3	6	fecunda culpae saecula nuptias primum inquinauere et genus et domos hoc fonte deriuata clades in patriam populum que fluxit	mixed	0.0
+0366	3	6	motus doceri gaudet Ionicos matura uirgo et fingitur artibus iam nunc et incestos amores de tenero meditatur ungui	positive	1.0
+0367	3	6	mox iuniores quaerit adulteros inter mariti uina neque eligit cui donet inpermissa raptim gaudia luminibus remotis sed iussa coram non sine conscio surgit marito seu uocat institor seu nauis Hispanae magister dedecorum pretiosus emptor	mixed	0.0
+0368	3	6	non his iuuentus orta parentibus infecit aequor sanguine Punico Pyrrhum que et ingentem cecidit Antiochum Hannibalem que dirum sed rusticorum mascula militum proles Sabellis docta ligonibus uersare glaebas et seuerae matris ad arbitrium recisos portare fustis sol ubi montium mutaret umbras et iuga demeret bubus fatigatis amicum tempus agens abeunte curru	negative	-0.5
+0369	3	6	damnosa quid non inminuit dies	neutral	0.0
+0370	3	6	aetas parentum peior auis tulit nos nequiores mox daturos progeniem uitiosiorem	negative	-1.5
+0371	3	7	quid fles Asterie quem tibi candidi primo restituent uere Fauonii Thyna merce beatum constantis iuuenem fide Gygen	positive	3.0
+0372	3	7	ille Notis actus ad Oricum post insana Caprae sidera frigidas noctis non sine multis insomnis lacrimis agit	negative	-1.5
+0373	3	7	atqui sollicitae nuntius hospitae suspirare Chloen et miseram tuis dicens ignibus uri temptat mille uafer modis	negative	-1.0
+0374	3	7	ut Proetum mulier perfida credulum falsis inpulerit criminibus nimis casto Bellerophontae maturare necem refert narrat paene datum (esse) Pelea Tartaro Magnessam Hippolyten dum fugit abstinens et peccare docentis fallax historias mouet frustra nam scopulis surdior Icari uoces audit adhuc integer	negative	-4.5
+0375	3	7	at tibi ne uicinus Enipeus plus iusto placeat caue quamuis non alius flectere equum sciens aeque conspicitur gramine Martio nec quisquam citus aeque Tusco denatat alueo	positive	1.0
+0376	3	7	prima nocte domum claude neque in uias sub cantu querulae despice tibiae et te saepe uocanti duram difficilis mane	negative	-0.5
+0377	3	8	Martiis caelebs quid agam kalendis quid uelint flores et acerra turis plena miraris positus que carbo in caespite uiuo docte sermones utriusque linguae uoueram dulcis epulas et album Libero caprum prope funeratus arboris ictu	positive	0.5
+0378	3	8	hic dies anno redeunte festus corticem adstrictum pice dimouebit amphorae fumum bibere institutae consule Tullo	positive	0.5
+0379	3	8	sume Maecenas cyathos amici sospitis centum et uigilis lucernas perfer in lucem procul omnis esto clamor et ira	positive	1.0
+0380	3	8	mitte ciuilis super urbe curas occidit Daci Cotisonis agmen Medus infestus sibi luctuosis dissidet armis seruit Hispanae uetus hostis orae Cantaber sera domitus catena iam Scythae laxo meditantur arcu cedere campis	negative	-4.0
+0381	3	8	neglegens ne qua populus laboret parce priuatus nimium cauere et dona praesentis cape laetus horae linque seuera	mixed	0.0
+0382	3	9	donec gratus eram tibi nec quisquam potior bracchia candidae ceruici iuuenis dabat Persarum uigui rege beatior	positive	2.0
+0383	3	9	donec non alia magis arsisti neque erat Lydia post Chloen multi Lydia nominis Romana uigui clarior Ilia	positive	0.5
+0384	3	9	me nunc Thressa Chloe regit dulcis docta modos et citharae sciens pro qua non metuam mori si parcent animae fata superstiti	positive	2.5
+0385	3	9	me torret face mutua Thurini Calais filius Ornyti pro quo bis patiar mori si parcent puero fata superstiti	positive	0.5
+0386	3	9	quid si prisca redit Venus diductos que iugo cogit aeneo si flaua excutitur Chloe reiectae que patet ianua Lydiae	positive	1.0
+0387	3	9	quamquam sidere pulcrior ille est tu leuior cortice et inprobo iracundior Hadria te cum uiuere amem te cum obeam lubens	mixed	0.0
+0388	3	10	extremum Tanain si biberes Lyce saeuo nupta uiro me tamen asperas porrectum ante foris obicere incolis plorares Aquilonibus	negative	-1.0
+0389	3	10	audis quo strepitu ianua quo nemus inter pulcra satum tecta remugiat uentis et positas ut glaciet niues puro numine Iuppiter	positive	2.0
+0390	3	10	ingratam Veneri pone superbiam ne currente retro funis eat rota non te Penelopen difficilem procis Tyrrhenus genuit parens	negative	-1.0
+0391	3	10	o quamuis neque te munera nec preces nec tinctus uiola pallor amantium nec uir Pieria paelice saucius curuat supplicibus tuis parcas nec rigida mollior aesculo nec Mauris animum mitior anguibus non hoc semper erit liminis aut aquae caelestis patiens latus	positive	4.0
+0392	3	11	Mercuri nam te docilis magistro mouit Amphion lapides canendo tu que testudo resonare septem callida neruis nec loquax olim neque grata nunc et diuitum mensis et amica templis dic modos Lyde quibus obstinatas adplicet auris quae uelut latis equa trima campis ludit exsultim metuit que tangi nuptiarum expers et adhuc proteruo cruda marito	positive	3.0
+0393	3	11	tu potes tigris comites que siluas ducere et riuos celeres morari cessit immanis tibi blandienti ianitor aulae Cerberus quamuis furiale centum muniant angues caput eius atque spiritus taeter sanies que manet ore trilingui quin et Ixion Tityos que uoltu risit inuito stetit urna paulum sicca dum grato Danai puellas carmine mulces	negative	-0.5
+0394	3	11	audiat Lyde scelus atque notas uirginum poenas et inane lymphae dolium fundo pereuntis imo sera que fata quae manent culpas etiam sub Orco inpiae nam quid potuere maius inpiae sponsos potuere duro perdere ferro	negative	-5.5
+0395	3	11	una de multis face nuptiali digna periurum fuit in parentem splendide mendax et in omne uirgo nobilis aeuom surge quae dixit iuueni marito surge ne longus tibi somnus unde non times detur socerum et scelestas falle sorores quae uelut nactae uitulos leaenae singulos eheu lacerant ego illis mollior nec te feriam neque intra claustra tenebo	mixed	0.0
+0396	3	11	me pater saeuis oneret catenis quod uiro clemens misero peperci me uel extremos Numidarum in agros classe releget i pedes quo te rapiunt et aurae dum fauet nox et Venus i secundo omine et nostri memorem sepulcro scalpe querelam	positive	1.5
+0397	3	12	miserarum est neque amori dare ludum neque dulci mala uino lauere aut exanimari metuentis patruae uerbera linguae	negative	-1.0
+0398	3	12	tibi qualum Cythereae puer ales tibi telas operosae que Mineruae studium aufert Neobule Liparaei nitor Hebri simul unctos Tiberinis umeros lauit in undis eques ipso melior Bellerophonte neque pugno neque segni pede uictus catus idem per apertum fugientis agitato grege ceruos iaculari et celer arto latitantem fruticeto excipere aprum	positive	4.0
+0399	3	13	o fons Bandusiae splendidior uitro dulci digne mero non sine floribus cras donaberis haedo cui frons turgida cornibus primis et uenerem et proelia destinat frustra nam gelidos inficiet tibi rubro sanguine riuos lasciui suboles gregis	positive	3.0
+0400	3	13	te flagrantis atrox hora Caniculae nescit tangere tu frigus amabile fessis uomere tauris praebes et pecori uago	mixed	0.0
+0401	3	13	fies nobilium tu quoque fontium me dicente cauis inpositam ilicem saxis unde loquaces lymphae desiliunt tuae	positive	1.0
+0402	3	14	Herculis ritu modo dictus o plebs morte uenalem petiisse laurum Caesar Hispana repetit penatis uictor ab ora	positive	0.5
+0403	3	14	unico gaudens mulier marito prodeat iustis operata sacris et soror clari ducis et decorae supplice uitta uirginum matres iuuenum que nuper sospitum uos o pueri et puellae iam uirum expertae male nominatis parcite uerbis	positive	3.5
+0404	3	14	hic dies uere mihi festus atras exiget curas ego nec tumultum nec mori per uim metuam tenente Caesare terras	positive	0.5
+0405	3	14	i pete unguentum puer et coronas et cadum Marsi memorem duelli Spartacum si qua potuit uagantem fallere testa	positive	0.5
+0406	3	14	dic et argutae properet Neaerae murreum nodo cohibere crinem si per inuisum mora ianitorem fiet abito	negative	-0.5
+0407	3	14	lenit albescens animos capillus litium et rixae cupidos proteruae non ego hoc ferrem calidus iuuenta consule Planco	negative	-0.5
+0408	3	15	uxor pauperis Ibyci tandem nequitiae fige modum tuae famosis que laboribus maturo propior desine funeri inter ludere uirgines et stellis nebulam spargere candidis	negative	-2.5
+0409	3	15	non si quid Pholoen satis et te Chlori decet filia rectius expugnat iuuenum domos pulso Thyias uti concita tympano	neutral	0.0
+0410	3	15	illam cogit amor Nothi lasciuae similem ludere capreae te lanae prope nobilem tonsae Luceriam non citharae decent nec flos purpureus rosae nec poti uetulam faece tenus cadi	positive	1.5
+0411	3	16	inclusam Danaen turris aenea robustae que fores et uigilum canum tristes excubiae munierant satis nocturnis ab adulteris si non Acrisium uirginis abditae custodem pauidum Iuppiter et Venus risissent fore enim tutum iter et patens conuerso in pretium deo	positive	1.5
+0412	3	16	aurum per medios ire satellites et perrumpere amat saxa potentius ictu fulmineo concidit auguris Argiui domus ob lucrum demersa exitio diffidit urbium portas uir Macedo et subruit aemulos reges muneribus munera nauium saeuos inlaqueant duces	positive	2.5
+0413	3	16	crescentem sequitur cura pecuniam maiorum que fames iure perhorrui late conspicuum tollere uerticem Maecenas equitum decus	negative	-0.5
+0414	3	16	quanto quisque sibi plura negauerit ab dis plura feret nil cupientium nudus castra peto et transfuga diuitum partis linquere gestio contemptae dominus splendidior rei quam si quidquid arat inpiger Apulus occultare meis dicerer horreis magnas inter opes inops	negative	-1.5
+0415	3	16	purae riuos aquae silua que iugerum paucorum et segetis certa fides meae fulgentem imperio fertilis Africae fallit sorte beatior	positive	3.5
+0416	3	16	quamquam nec Calabrae mella ferunt apes nec Laestrygonia Bacchus in amphora languescit mihi nec pinguia Gallicis crescunt uellera pascuis inportuna tamen pauperies abest nec si plura uelim tu dare deneges	negative	-2.0
+0417	3	16	contracto melius parua cupidine uectigalia porrigam quam si Mygdoniis regnum Alyattei campis continuem	negative	-0.5
+0418	3	16	multa petentibus desunt multa bene est cui deus obtulit parca quod satis est manu	positive	0.5
+0419	3	17	Aeli uetusto nobilis ab Lamo quando et priores hinc Lamias ferunt denominatos (esse) et nepotum per memores genus omne fastus auctore ab illo ducit originem qui Formiarum moenia dicitur princeps et innantem Maricae litoribus tenuisse Lirim late tyrannus cras foliis nemus multis et alga litus inutili demissa tempestas ab Euro sternet aquae nisi fallit augur annosa cornix dum potes aridum conpone lignum cras genium mero curabis et porco bimenstri cum famulis operum solutis	positive	1.0
+0420	3	18	Faune Nympharum fugientum amator per meos finis et aprica rura lenis incedas abeas que paruis aequus alumnis si tener pleno cadit haedus anno larga nec desunt Veneris sodali uina creterrae uetus ara multo fumat odore	positive	3.5
+0421	3	18	ludit herboso pecus omne campo cum tibi nonae redeunt Decembres festus in pratis uacat otioso cum boue pagus inter audacis lupus errat agnos spargit agrestis tibi silua frondes gaudet inuisam pepulisse fossor ter pede terram	negative	-1.5
+0422	3	19	quantum distet ab Inacho Codrus pro patria non timidus mori narras et genus Aeaci et pugnata sacro bella sub Ilio quo Chium pretio cadum mercemur quis aquam temperet ignibus quo praebente domum et quota Paelignis caream frigoribus taces	positive	1.5
+0423	3	19	da lunae propere nouae da noctis mediae da puer auguris Murenae tribus aut nouem miscentur cyathis pocula commodis	positive	1.0
+0424	3	19	qui Musas amat imparis ternos ter cyathos attonitus petet uates tris prohibet supra rixarum metuens tangere Gratia nudis iuncta sororibus insanire iuuat cur Berecyntiae cessant flamina tibiae	negative	-0.5
+0425	3	19	cur pendet tacita fistula cum lyra	neutral	0.0
+0426	3	19	parcentis ego dexteras odi sparge rosas	neutral	0.0
+0427	3	19	audiat inuidus dementem strepitum Lycus et uicina seni non habilis Lyco	negative	-2.0
+0428	3	19	spissa te nitidum coma puro te similem Telephe Vespero tempestiua petit Rhode me lentus Glycerae torret amor meae	positive	2.5
+0429	3	20	non uides quanto moueas periclo Pyrrhe Gaetulae catulos leaenae	negative	-1.0
+0430	3	20	dura post paulo fugies inaudax proelia raptor cum per obstantis iuuenum cateruas ibit insignem repetens Nearchum grande certamen tibi praeda cedat maior an illa	negative	-1.0
+0431	3	20	interim dum tu celeris sagittas promis haec dentis acuit timendos arbiter pugnae posuisse nudo sub pede palmam fertur et leni recreare uento sparsum odoratis umerum capillis qualis aut Nireus fuit aut aquosa raptus ab Ida	mixed	0.0
+0432	3	21	o nata me cum consule Manlio seu tu querellas siue geris iocos seu rixam et insanos amores seu facilem pia testa somnum quocumque lectum nomine Massicum seruas moueri digna bono die descende Coruino iubente promere languidiora uina	positive	2.5
+0433	3	21	non ille quamquam Socraticis madet sermonibus te neglegit horridus narratur et prisci Catonis saepe mero caluisse uirtus	negative	-0.5
+0434	3	21	tu lene tormentum ingenio admoues plerumque duro tu sapientium curas et arcanum iocoso consilium retegis Lyaeo tu spem reducis mentibus anxiis uiris que et addis cornua pauperi post te neque iratos trementi regum apices neque militum arma	mixed	0.0
+0435	3	21	te Liber et si laeta aderit Venus segnes que nodum soluere Gratiae uiuae que producent lucernae dum rediens fugat astra Phoebus	positive	3.5
+0436	3	22	montium custos nemorum que uirgo quae laborantis utero puellas ter uocata audis adimis que leto diua triformis imminens uillae tua pinus esto quam per exactos ego laetus annos uerris obliquom meditantis ictum sanguine donem	mixed	0.0
+0437	3	23	caelo supinas si tuleris manus nascente Luna rustica Phidyle si ture placaris et horna fruge Lares auida que porca nec pestilentem sentiet Africum fecunda uitis nec sterilem seges robiginem aut dulces alumni pomifero graue tempus anno	positive	1.0
+0438	3	23	nam quae niuali pascitur Algido deuota quercus inter et ilices aut crescit Albanis in herbis uictima pontificum securis ceruice tinguet te nihil attinet temptare multa caede bidentium paruos coronantem marino rore deos fragili que myrto	negative	-0.5
+0439	3	23	inmunis aram si tetigit manus non sumptuosa blandior hostia molliuit auersos Penatis farre pio et saliente mica	positive	0.5
+0440	3	24	intactis opulentior thesauris Arabum et diuitis Indiae caementis licet occupes terrenum omne tuis et mare publicum si figit adamantinos summis uerticibus dira Necessitas clauos non animum metu non mortis laqueis expedies caput	negative	-2.0
+0441	3	24	campestres melius Scythae quorum plaustra uagas rite trahunt domos uiuunt et rigidi Getae inmetata quibus iugera liberas fruges et Cererem ferunt nec cultura placet longior annua defunctum que laboribus aequali recreat sorte uicarius	mixed	0.0
+0442	3	24	illic matre carentibus priuignis mulier temperat innocens nec dotata regit uirum coniunx nec nitido fidit adultero dos est magna parentium uirtus et metuens alterius uiri certo foedere castitas et peccare nefas aut pretium est mori	positive	3.0
+0443	3	24	o quisquis uolet inpias caedis et rabiem tollere ciuicam si quaeret pater urbium subscribi statuis indomitam audeat refrenare licentiam clarus postgenitis quatenus heu nefas uirtutem incolumem odimus sublatam ex oculis quaerimus inuidi	negative	-3.0
+0444	3	24	quid tristes querimoniae si non supplicio culpa reciditur quid leges sine moribus uanae proficiunt si neque feruidis pars inclusa caloribus mundi nec Boreae finitimum latus duratae que solo niues mercatorem abigunt horrida callidi uincunt aequora nauitae magnum pauperies opprobrium iubet quiduis et facere et pati uirtutis que uiam deserit arduae	negative	-2.5
+0445	3	24	uel nos in Capitolium quo clamor uocat et turba fauentium uel nos in mare proximum gemmas et lapides aurum et inutile summi materiem mali mittamus scelerum si bene paenitet	negative	-2.5
+0446	3	24	eradenda cupidinis praui sunt elementa et tenerae nimis mentes asperioribus formandae studiis	negative	-1.0
+0447	3	24	nescit equo rudis haerere ingenuus puer uenari que timet ludere doctior seu Graeco iubeas trocho seu malis uetita legibus alea cum periura patris fides consortem socium fallat et hospites indigno que pecuniam heredi properet	positive	0.5
+0448	3	24	scilicet inprobae crescunt diuitiae tamen curtae nescio quid nescio quid semper abest rei	negative	-0.5
+0449	3	25	quo me Bacche rapis tui plenum	neutral	0.0
+0450	3	25	quae nemora aut quos agor in specus uelox mente noua	positive	1.0
+0451	3	25	quibus antris egregii Caesaris audiar aeternum meditans decus stellis inserere et consilio Iouis	positive	1.5
+0452	3	25	dicam insigne recens adhuc indictum ore alio	neutral	0.0
+0453	3	25	non secus in iugis exsomnis stupet Euhias Hebrum prospiciens et niue candidam Thracen ac pede barbaro lustratam Rhodopen ut mihi deuio ripas et uacuum nemus mirari libet	neutral	0.0
+0454	3	25	o Naiadum potens Baccharum que ualentium proceras manibus uertere fraxinos nil paruum aut humili modo nil mortale loquar	positive	1.0
+0455	3	25	dulce periculum est o Lenaee sequi deum cingentem uiridi tempora pampino	negative	-0.5
+0456	3	26	uixi puellis nuper idoneus et militaui non sine gloria nunc arma defunctum que bello barbiton hic paries habebit laeuom marinae qui Veneris latus custodit hic hic ponite lucida funalia et uectis et arcus oppositis foribus minacis	mixed	0.0
+0457	3	26	o quae beatam diua tenes Cyprum et Memphin carentem Sithonia niue regina sublimi flagello tange Chloen semel arrogantem	positive	1.5
+0458	3	27	inpios parrae recinentis omen ducat et praegnans canis aut ab agro raua decurrens lupa Lanuuino feta que uolpes rumpat et serpens iter institutum si per obliquom similis sagittae terruit mannos	negative	-1.0
+0459	3	27	ego cui timebo prouidus auspex antequam stantis repetat paludes imbrium diuina auis imminentium oscinem coruum prece suscitabo solis ab ortu	positive	1.5
+0460	3	27	sis licet felix ubicumque mauis et memor nostri Galatea uiuas te que nec laeuos uetet ire picus nec uaga cornix	positive	0.5
+0461	3	27	sed uides quanto trepidet tumultu pronus Orion	neutral	0.0
+0462	3	27	ego quid sit ater Hadriae noui sinus et quid albus peccet Iapyx	neutral	0.0
+0463	3	27	hostium uxores pueri que caecos sentiant motus orientis Austri et aequoris nigri fremitum et trementis uerbere ripas	negative	-2.0
+0464	3	27	sic et Europe niueum doloso credidit tauro latus et scatentem beluis pontum medias que fraudes palluit audax	negative	-1.0
+0465	3	27	nuper in pratis studiosa florum et debitae Nymphis opifex coronae nocte sublustri nihil astra praeter uidit et undas	positive	1.0
+0466	3	27	quae simul centum tetigit potentem oppidis Creten pater o relictum filiae nomen pietas que dixit uicta furore	positive	1.0
+0467	3	27	unde quo ueni	neutral	0.0
+0468	3	27	leuis una mors est uirginum culpae	negative	-2.0
+0469	3	27	uigilans ne ploro turpe conmissum an uitiis carentem ludit imago uana quae porta fugiens eburna somnium ducit	negative	-2.0
+0470	3	27	melius ne fluctus ire per longos fuit an recentis carpere flores	positive	1.5
+0471	3	27	si quis infamem mihi nunc iuuencum dedat iratae lacerare ferro et frangere enitar modo multum amati cornua monstri	negative	-0.5
+0472	3	27	inpudens liqui patrios penates inpudens Orcum moror	negative	-2.0
+0473	3	27	o deorum si quis haec audis utinam inter errem nuda leones antequam turpis macies decentis occupet malas tenerae que sucus defluat praedae speciosa quaero pascere tigris	negative	-1.0
+0474	3	27	uilis Europe pater urget absens quid mori cessas	negative	-0.5
+0475	3	27	potes hac ab orno pendulum zona bene te secuta laedere collum	neutral	0.0
+0476	3	27	siue te rupes et acuta leto saxa delectant age te procellae crede ueloci nisi erile mauis carpere pensum regius sanguis dominae que tradi barbarae paelex	negative	-1.0
+0477	3	27	aderat querenti perfidum ridens Venus et remisso filius arcu	positive	1.0
+0478	3	27	mox ubi lusit satis abstineto dixit irarum calidae que rixae cum tibi inuisus laceranda reddet cornua taurus	negative	-1.5
+0479	3	27	uxor inuicti Iouis esse nescis	positive	1.0
+0480	3	27	mitte singultus bene ferre magnam disce fortunam tua sectus orbis nomina ducet	neutral	0.0
+0481	3	28	festo quid potius die Neptuni faciam	neutral	0.0
+0482	3	28	prome reconditum Lyde strenua Caecubum munitae que adhibe uim sapientiae	positive	3.0
+0483	3	28	inclinare meridiem sentis et ueluti stet uolucris dies parcis deripere horreo cessantem Bibuli consulis amphoram	positive	0.5
+0484	3	28	nos cantabimus inuicem Neptunum et uiridis Nereidum comas tu curua recines lyra Latonam et celeris spicula Cynthiae summo carmine quae Cnidon fulgentis que tenet Cycladas et Paphon iunctis uisit oloribus dicetur merita Nox quoque nenia	neutral	0.0
+0485	3	29	Tyrrhena regum progenies tibi non ante uerso lene merum cado cum flore Maecenas rosarum et pressa tuis balanus capillis iamdudum apud me est eripe te morae ne semper udum Tibur et Aefulae decliue contempleris aruom et Telegoni iuga parricidae	positive	0.5
+0486	3	29	fastidiosam desere copiam et molem propinquam nubibus arduis omitte mirari beatae fumum et opes strepitum que Romae	positive	0.5
+0487	3	29	plerumque gratae diuitibus uices mundae que paruo sub lare pauperum cenae sine aulaeis et ostro sollicitam explicuere frontem	negative	-0.5
+0488	3	29	iam clarus occultum Andromedae pater ostendit ignem iam Procyon furit et stella uesani Leonis sole dies referente siccos iam pastor umbras cum grege languido riuom que fessus quaerit et horridi dumeta Siluani caret que ripa uagis taciturna uentis tu ciuitatem quis deceat status curas et urbi sollicitus times quid Seres et regnata Cyro Bactra parent Tanais que discors	negative	-0.5
+0489	3	29	prudens futuri temporis exitum caliginosa nocte premit deus ridet que si mortalis ultra fas trepidat	mixed	0.0
+0490	3	29	quod adest memento conponere aequos cetera fluminis ritu feruntur nunc medio alueo cum pace delabentis Etruscum in mare nunc lapides adesos stirpis que raptas et pecus et domos uoluentis una non sine montium clamore uicinae que siluae cum fera diluuies quietos inritat amnis	mixed	0.0
+0491	3	29	ille potens sui laetus que deget cui licet in diem dixisse uixi	positive	2.0
+0492	3	29	cras uel atra nube polum pater occupato uel sole puro non tamen inritum quodcumque retro est efficiet neque diffinget infectum que reddet quod fugiens semel hora uexit	positive	0.5
+0493	3	29	Fortuna saeuo laeta negotio et ludum insolentem ludere pertinax transmutat incertos honores nunc mihi nunc alii benigna	mixed	0.0
+0494	3	29	laudo manentem si celeris quatit pinnas resigno quae dedit et mea uirtute me inuoluo probam que pauperiem sine dote quaero	positive	1.0
+0495	3	29	non est meum si mugiat Africis malus procellis ad miseras preces decurrere et uotis pacisci ne Cypriae Tyriae que merces addant auaro diuitias mari tunc me biremis praesidio scaphae tutum per Aegaeos tumultus aura feret geminus que Pollux	negative	-1.0
+0496	3	30	exegi monumentum aere perennius regali que situ pyramidum altius quod non imber edax non aquilo impotens possit diruere aut innumerabilis annorum series et fuga temporum	negative	-1.0
+0497	3	30	non omnis moriar multa que pars mei uitabit Libitinam usque ego postera crescam laude recens dum Capitolium scandet cum tacita uirgine pontifex dicar qua uiolens obstrepit Aufidus et qua pauper aquae Daunus agrestium regnauit populorum ex humili potens princeps Aeolium carmen ad Italos deduxisse modos	positive	2.0
+0498	3	30	sume superbiam quaesitam meritis et mihi Delphica lauro cinge uolens Melpomene comam	positive	0.5
+0499	4	1	intermissa Venus diu rursus bella moues	positive	1.0
+0500	4	1	parce precor precor	neutral	0.0
+0501	4	1	non sum qualis eram bonae sub regno Cinarae	positive	1.0
+0502	4	1	desine dulcium mater saeua Cupidinum circa lustra decem flectere mollibus iam durum imperiis abi quo blandae iuuenum te reuocant preces	negative	-1.0
+0503	4	1	tempestiuius in domum Pauli purpureis ales oloribus comissabere Maximi si torrere iecur quaeris idoneum	positive	0.5
+0504	4	1	namque et nobilis et decens et pro sollicitis non tacitus reis et centum puer artium late signa feret militiae tuae et quandoque potentior largi muneribus riserit aemuli Albanos prope te lacus ponet marmoream sub trabe citrea	positive	1.5
+0505	4	1	illic plurima naribus duces tura lyra que et Berecyntia delectabere tibia mixtis carminibus non sine fistula illic bis pueri die numen cum teneris uirginibus tuum laudantes pede candido in morem Salium ter quatient humum	positive	0.5
+0506	4	1	me nec femina nec puer iam nec spes animi credula mutui nec certare iuuat mero nec uincire nouis tempora floribus	positive	1.5
+0507	4	1	sed cur heu Ligurine cur manat rara meas lacrima per genas	neutral	0.0
+0508	4	1	cur facunda parum decoro inter uerba cadit lingua silentio	positive	0.5
+0509	4	1	nocturnis ego somniis iam captum teneo iam uolucrem sequor te per gramina Martii Campi te per aquas dure uolubilis	mixed	0.0
+0510	4	2	Pindarum quisquis studet aemulari Iulle ceratis ope Daedalea nititur pinnis uitreo daturus nomina ponto	neutral	0.0
+0511	4	2	monte decurrens uelut amnis imbres quem super notas aluere ripas feruet inmensus que ruit profundo Pindarus ore laurea donandus Apollinari seu per audacis noua dithyrambos uerba deuoluit numeris que fertur lege solutis seu deos reges que canit deorum sanguinem per quos cecidere iusta morte Centauri cecidit tremendae flamma Chimaerae siue quos Elea domum reducit palma caelestis pugilem ue equom ue dicit et centum potiore signis munere donat flebili sponsae iuuenem ue raptum plorat et uiris animum que mores que aureos educit in astra nigro que inuidet Orco	positive	3.0
+0512	4	2	multa Dircaeum leuat aura cycnum tendit Antoni quotiens in altos nubium tractus ego apis Matinae more modo que grata carpentis thyma per laborem plurimum circa nemus uuidi que Tiburis ripas operosa paruos carmina fingo	positive	3.0
+0513	4	2	concines maiore poeta plectro Caesarem quandoque trahet ferocis per sacrum cliuum merita decorus fronde Sygambros quo nihil maius melius ue terris fata donauere boni que diui nec dabunt quamuis redeant in aurum tempora priscum concines laetos que dies et urbis publicum ludum super inpetrato fortis Augusti reditu forum que litibus orbum	positive	5.0
+0514	4	2	tum meae si quid loquar audiendum uocis accedet bona pars et o sol pulcer o laudande canam recepto Caesare felix	positive	3.5
+0515	4	2	te que dum procedis io Triumphe non semel dicemus io Triumphe ciuitas omnis dabimus que diuis tura benignis	positive	1.5
+0516	4	2	te decem tauri totidem que uaccae me tener soluet uitulus relicta matre qui largis iuuenescit herbis in mea uota fronte curuatos imitatus ignis tertium lunae referentis ortum qua notam duxit niueus uideri cetera fuluos	negative	-1.0
+0517	4	3	quem tu Melpomene semel nascentem placido lumine uideris illum non labor Isthmius clarabit pugilem non equos inpiger curru ducet Achaico uictorem neque res bellica Deliis ornatum foliis ducem quod regum tumidas contuderit minas ostendet Capitolio sed quae Tibur aquae fertile praefluunt et spissae nemorum comae fingent Aeolio carmine nobilem	positive	2.0
+0518	4	3	Romae principis urbium dignatur suboles inter amabilis uatum ponere me choros et iam dente minus mordeor inuido	positive	1.5
+0519	4	3	o testudinis aureae dulcem quae strepitum Pieri temperas o mutis quoque piscibus donatura cycni si libeat sonum totum muneris hoc tui est quod monstror digito praetereuntium Romanae fidicen lyrae quod spiro et placeo si placeo tuum est	positive	1.5
+0520	4	4	qualem ministrum fulminis alitem cui rex deorum regnum in auis uagas permisit expertus fidelem Iuppiter in Ganymede flauo olim iuuentas et patrius uigor nido laborum propulit inscium uerni que iam nimbis remotis insolitos docuere nisus uenti pauentem mox in ouilia demisit hostem uiuidus impetus nunc in reluctantis dracones egit amor dapis atque pugnae qualem ue laetis caprea pascuis intenta fuluae matris ab ubere iam lacte depulsum leonem dente nouo peritura uidit uidere Raetis bella sub Alpibus Drusum gerentem Vindelici quibus mos unde deductus per omne tempus Amazonia securi dextras obarmet quaerere distuli nec scire fas est omnia sed diu late que uictrices cateruae consiliis iuuenis reuictae sensere quid mens rite quid indoles nutrita faustis sub penetralibus posset quid Augusti paternus in pueros animus Nerones	positive	5.0
+0521	4	4	fortes creantur fortibus et bonis est in iuuencis est in equis patrum uirtus neque inbellem feroces progenerant aquilae columbam	positive	1.0
+0522	4	4	doctrina sed uim promouet insitam recti que cultus pectora roborant utcumque defecere mores indecorant bene nata culpae	mixed	0.0
+0523	4	4	quid debeas o Roma Neronibus testis Metaurum flumen et Hasdrubal deuictus et pulcher fugatis ille dies Latio tenebris qui primus alma risit adorea dirus per urbis Afer ut Italas ceu flamma per taedas uel Eurus per Siculas equitauit undas	positive	1.0
+0524	4	4	post hoc secundis usque laboribus Romana pubes creuit et inpio uastata Poenorum tumultu fana deos habuere rectos dixit que tandem perfidus Hannibal cerui luporum praeda rapacium sectamur ultro quos opimus fallere et effugere est triumphus	negative	-1.5
+0525	4	4	gens quae cremato fortis ab Ilio iactata Tuscis aequoribus sacra natos que maturos que patres pertulit Ausonias ad urbis duris ut ilex tonsa bipennibus nigrae feraci frondis in Algido per damna per caedis ab ipso ducit opes animum que ferro	negative	-0.5
+0526	4	4	non hydra secto corpore firmior uinci dolentem creuit in Herculem monstrum ue submisere Colchi maius Echioniae ue Thebae	positive	1.5
+0527	4	4	merses profundo pulcrior euenit luctere multa proruet integrum cum laude uictorem geret que proelia coniugibus loquenda	positive	1.5
+0528	4	4	Carthagini iam non ego nuntios mittam superbos occidit occidit spes omnis et fortuna nostri nominis Hasdrubale interempto	negative	-0.5
+0529	4	4	nil Claudiae non perficient manus quas et benigno numine Iuppiter defendit et curae sagaces expediunt per acuta belli	mixed	0.0
+0530	4	5	diuis orte bonis optume Romulae custos gentis abes iam nimium diu maturum reditum pollicitus patrum sancto concilio redi	positive	2.5
+0531	4	5	lucem redde tuae dux bone patriae	positive	1.5
+0532	4	5	instar ueris enim uoltus ubi tuus adfulsit populo gratior it dies et soles melius nitent	positive	1.0
+0533	4	5	ut mater iuuenem quem Notus inuido flatu Carpathii trans maris aequora cunctantem spatio longius annuo dulci distinet a domo uotis ominibus que et precibus uocat curuo nec faciem litore dimouet sic desideriis icta fidelibus quaerit patria Caesarem	positive	1.0
+0534	4	5	tutus bos etenim rura perambulat nutrit rura Ceres alma que Faustitas pacatum uolitant per mare nauitae culpari metuit fides nullis polluitur casta domus stupris mos et lex maculosum edomuit nefas laudantur simili prole puerperae culpam poena premit comes	mixed	0.0
+0535	4	5	quis Parthum paueat quis gelidum Scythen quis Germania quos horrida parturit fetus incolumi Caesare	negative	-1.0
+0536	4	5	quis ferae bellum curet Hiberiae	negative	-1.0
+0537	4	5	condit quisque diem collibus in suis et uitem uiduas ducit ad arbores hinc ad uina redit laetus et alteris te mensis adhibet deum	positive	1.0
+0538	4	5	te multa prece te prosequitur mero defuso pateris et Laribus tuum miscet numen uti Graecia Castoris et magni memor Herculis	positive	0.5
+0539	4	5	longas o utinam dux bone ferias praestes Hesperiae dicimus integro sicci mane die dicimus uuidi cum sol Oceano subest	positive	2.0
+0540	4	6	diue quem proles Niobaea magnae uindicem linguae Tityos que raptor sensit et Troiae prope uictor altae Pthius Achilles ceteris maior tibi miles inpar filius quamuis Thetidis marinae Dardanas turris quateret tremenda cuspide pugnax ille mordaci uelut icta ferro pinus aut inpulsa cupressus Euro procidit late posuit que collum in puluere Teucro ille non inclusus equo Mineruae sacra mentito male feriatos Troas et laetam Priami choreis falleret aulam sed palam captis grauis heu nefas heu nescios fari pueros Achiuis ureret flammis etiam latentem matris in aluo ni tuis flexus Veneris que gratae uocibus diuom pater adnuisset rebus Aeneae potiore ductos alite muros doctor argutae fidicen Thaliae Phoebe qui Xantho lauis amne crinis Dauniae defende decus Camenae leuis Agyieu	mixed	0.0
+0541	4	6	spiritum Phoebus mihi Phoebus artem carminis nomen que dedit poetae uirginum primae pueri que claris patribus orti Deliae tutela deae fugacis lyncas et ceruos cohibentis arcu Lesbium seruate pedem mei que pollicis ictum rite Latonae puerum canentes rite crescentem face Noctilucam prosperam frugum celerem que pronos uoluere mensis	positive	2.5
+0542	4	6	nupta iam dices ego dis amicum saeculo festas referente luces reddidi carmen docilis modorum uatis Horati	positive	1.5
+0543	4	7	diffugere niues redeunt iam gramina campis arboribus que comae mutat terra uices et decrescentia ripas flumina praetereunt	neutral	0.0
+0544	4	7	Gratia cum Nymphis geminis que sororibus audet ducere nuda choros	positive	1.0
+0545	4	7	inmortalia ne speres monet annus et almum quae rapit hora diem	positive	0.5
+0546	4	7	frigora mitescunt Zephyris uer proterit aestas interitura simul pomifer autumnus fruges effuderit et mox bruma recurrit iners	positive	0.5
+0547	4	7	damna tamen celeres reparant caelestia lunae nos ubi decidimus quo pius Aeneas quo diues Tullus et Ancus puluis et umbra sumus	negative	-0.5
+0548	4	7	quis scit an adiciant hodiernae crastina summae tempora di superi	neutral	0.0
+0549	4	7	cuncta manus auidas fugient heredis amico quae dederis animo	positive	1.5
+0550	4	7	cum semel occideris et de te splendida Minos fecerit arbitria non Torquate genus non te facundia non te restituet pietas	positive	3.0
+0551	4	7	infernis neque enim tenebris Diana pudicum liberat Hippolytum nec Lethaea ualet Theseus abrumpere caro uincula Pirithoo	positive	1.5
+0552	4	8	donarem pateras grata que commodus Censorine meis aera sodalibus donarem tripodas praemia fortium Graiorum neque tu pessuma munerum ferres diuite me scilicet artium quas aut Parrhasius protulit aut Scopas hic saxo liquidis ille coloribus sollers nunc hominem ponere nunc deum	positive	5.0
+0553	4	8	sed non haec mihi uis nec tibi talium res est aut animus deliciarum egens gaudes carminibus carmina possumus donare et pretium dicere muneri	positive	3.0
+0554	4	8	non incisa notis marmora publicis per quae spiritus et uita redit bonis post mortem ducibus non celeres fugae reiectae que retrorsum Hannibalis minae non incendia Karthaginis inpiae eius qui domita nomen ab Africa lucratus rediit clarius indicant laudes quam Calabrae Pierides neque si chartae sileant quod bene feceris mercedem tuleris	positive	0.5
+0555	4	8	quid foret Iliae Mauortis que puer si taciturnitas obstaret meritis inuida Romuli	mixed	0.0
+0556	4	8	ereptum Stygiis fluctibus Aeacum uirtus et fauor et lingua potentium uatum diuitibus consecrat insulis	positive	3.0
+0557	4	8	dignum laude uirum Musa uetat mori caelo Musa beat	positive	3.0
+0558	4	8	sic Iouis interest optatis epulis inpiger Hercules clarum Tyndaridae sidus ab infimis quassas eripiunt aequoribus ratis ornatus uiridi tempora pampino Liber uota bonos ducit ad exitus	positive	2.5
+0559	4	9	ne forte credas interitura (esse) quae longe sonantem natus ad Aufidum non ante uolgatas per artis uerba loquor socianda chordis non si priores Maeonius tenet sedes Homerus Pindaricae latent Ceae que et Alcaei minaces Stesichori que graues Camenae nec si quid olim lusit Anacreon deleuit aetas spirat adhuc amor uiuunt que conmissi calores Aeoliae fidibus puellae	positive	3.0
+0560	4	9	non sola comptos arsit adulteri crinis et aurum uestibus inlitum mirata regalis que cultus et comites Helene Lacaena primus ue Teucer tela Cydonio direxit arcu non semel Ilios uexata (est) non pugnauit ingens Idomeneus Sthenelus ue solus dicenda Musis proelia non ferox Hector uel acer Deiphobus grauis excepit ictus pro pudicis coniugibus pueris que primus	negative	-2.5
+0561	4	9	uixere fortes ante Agamemnona multi sed omnes inlacrimabiles urgentur ignoti que longa nocte carent quia uate sacro	positive	1.0
+0562	4	9	paulum sepultae distat inertiae celata uirtus	positive	1.0
+0563	4	9	non ego te meis chartis inornatum silebo tot ue tuos patiar labores inpune Lolli carpere liuidas obliuiones est animus tibi rerum que prudens et secundis temporibus dubiis que rectus uindex auarae fraudis et abstinens ducentis ad se cuncta pecuniae consul que non unius anni sed quotiens bonus atque fidus iudex honestum praetulit utili reiecit alto dona nocentium uoltu per obstantis cateruas explicuit sua uictor arma	positive	3.5
+0564	4	9	non possidentem multa uocaueris recte beatum rectius occupat nomen beati qui deorum muneribus sapienter uti duram que callet pauperiem pati peius que leto flagitium timet non ille pro caris amicis aut patria timidus perire	negative	-0.5
+0565	4	10	o crudelis adhuc et Veneris muneribus potens insperata tuae cum ueniet pluma superbiae et quae nunc umeris inuolitant deciderint comae nunc et qui color est puniceae flore prior rosae mutatus Ligurine in faciem uerterit hispidam dices heu quotiens te speculo uideris alterum quae mens est hodie cur eadem non puero fuit uel cur his animis incolumes non redeunt genae	positive	1.5
+0566	4	11	est mihi nonum superantis annum plenus Albani cadus est in horto Phylli nectendis apium coronis est hederae uis multa qua crinis religata fulges ridet argento domus ara castis uincta uerbenis auet immolato spargier agno cuncta festinat manus huc et illuc cursitant mixtae pueris puellae sordidum flammae trepidant rotantes uertice fumum	positive	0.5
+0567	4	11	ut tamen noris quibus aduoceris gaudiis Idus tibi sunt agendae qui dies mensem Veneris marinae findit Aprilem iure sollemnis mihi sanctior que paene natali proprio quod ex hac luce Maecenas meus affluentis ordinat annos	positive	2.5
+0568	4	11	Telephum quem tu petis occupauit non tuae sortis iuuenem puella diues et lasciua tenet que grata compede uinctum	positive	0.5
+0569	4	11	terret ambustus Phaethon auaras spes et exemplum graue praebet ales Pegasus terrenum equitem grauatus Bellerophontem semper ut te digna sequare et ultra quam licet sperare nefas putando disparem uites	mixed	0.0
+0570	4	11	age iam meorum finis amorum non enim posthac alia calebo femina condisce modos amanda uoce quos reddas minuentur atrae carmine curae	positive	0.5
+0571	4	12	iam ueris comites quae mare temperant inpellunt animae lintea Thraciae iam nec prata rigent nec fluuii strepunt hiberna niue turgidi	positive	0.5
+0572	4	12	nidum ponit Ityn flebiliter gemens infelix auis et Cecropiae domus aeternum opprobrium quod male barbaras regum est <ulta> <est> ulta libidines	negative	-2.0
+0573	4	12	dicunt in tenero gramine pinguium custodes ouium carmina fistula delectant que deum cui pecus et nigri colles Arcadiae placent	neutral	0.0
+0574	4	12	adduxere sitim tempora Vergili	negative	-0.5
+0575	4	12	sed pressum Calibus ducere Liberum si gestis iuuenum nobilium cliens nardo uina merebere	positive	1.5
+0576	4	12	nardi paruus onyx eliciet cadum qui nunc Sulpiciis accubat horreis spes donare nouas largus amara que curarum eluere efficax	positive	1.0
+0577	4	12	ad quae si properas gaudia cum tua uelox merce ueni non ego te meis inmunem meditor tinguere poculis plena diues ut in domo	positive	1.5
+0578	4	12	uerum pone moras et studium lucri nigrorum que memor dum licet ignium misce stultitiam consiliis breuem dulce est desipere in loco	positive	1.5
+0579	4	13	audiuere Lyce di mea uota di audiuere Lyce fis anus et tamen uis formosa uideri ludis que et bibis inpudens et cantu tremulo pota Cupidinem lentum sollicitas ille uirentis et doctae psallere Chiae pulcris excubat in genis	positive	0.5
+0580	4	13	inportunus enim transuolat aridas quercus et refugit te quia luridi dentes te quia rugae turpant et capitis niues	negative	-2.0
+0581	4	13	nec Coae referunt iam tibi purpurae nec cari lapides tempora quae semel notis condita fastis inclusit uolucris dies	positive	1.0
+0582	4	13	quo fugit uenus heu quo ue color decens quo motus	positive	1.0
+0583	4	13	quid habes illius illius quae spirabat amores quae me surpuerat mihi felix post Cinaram nota que et artium gratarum facies	positive	3.0
+0584	4	13	sed Cinarae breuis annos fata dederunt seruatura diu parem cornicis uetulae temporibus Lycen possent ut iuuenes uisere feruidi multo non sine risu dilapsam in cineres facem	mixed	0.0
+0585	4	14	quae cura patrum quae ue Quiritium plenis honorum muneribus tuas Auguste uirtutes in aeuum per titulos memores que fastus aeternet o qua sol habitabilis inlustrat oras maxime principum quem legis expertes Latinae Vindelici didicere nuper quid Marte posses	positive	3.0
+0586	4	14	milite nam tuo Drusus Genaunos inplacidum genus Breunos que uelocis et arces Alpibus inpositas tremendis deiecit acer plus uice simplici maior Neronum mox graue proelium conmisit immanis que Raetos auspiciis pepulit secundis spectandus in certamine Martio deuota morti pectora liberae quantis fatigaret ruinis indomitas prope qualis undas exercet Auster Pleiadum choro scindente nubis inpiger hostium uexare turmas et frementem mittere equum medios per ignis	negative	-2.0
+0587	4	14	sic tauriformis uoluitur Aufidus qui regna Dauni praefluit Apuli cum saeuit horrendam que cultis diluuiem meditatur agris ut barbarorum Claudius agmina ferrata uasto diruit impetu primos que et extremos metendo strauit humum sine clade uictor te copias te consilium et tuos praebente diuos	negative	-1.5
+0588	4	14	nam tibi quo die portus Alexandrea supplex et uacuam patefecit aulam Fortuna lustro prospera tertio belli secundos reddidit exitus laudem que et optatum peractis imperiis decus arrogauit	positive	2.0
+0589	4	14	te Cantaber non ante domabilis Medus que et Indus te profugus Scythes miratur o tutela praesens Italiae dominae que Romae	neutral	0.0
+0590	4	14	te fontium qui celat origines Nilus que et Hister te rapidus Tigris te beluosus qui remotis obstrepit Oceanus Britannis te non pauentis funera Galliae durae que tellus audit Hiberiae te caede gaudentes Sygambri conpositis uenerantur armis	negative	-1.5
+0591	4	15	Phoebus uolentem proelia me loqui uictas et urbis increpuit lyra ne parua Tyrrhenum per aequor uela darem	mixed	0.0
+0592	4	15	tua Caesar aetas fruges et agris rettulit uberes et signa nostro restituit Ioui derepta Parthorum superbis postibus et uacuum duellis Ianum Quirini clausit et ordinem rectum euaganti frena licentiae iniecit emouit que culpas et ueteres reuocauit artis per quas Latinum nomen et Italae creuere uires fama que et imperi porrecta (est) maiestas ad ortus solis ab Hesperio cubili	positive	3.0
+0593	4	15	custode rerum Caesare non furor ciuilis aut uis exiget otium non ira quae procudit ensis et miseras inimicat urbis non qui profundum Danuuium bibunt edicta rumpent Iulia non Getae non Seres infidi que Persae non Tanain prope flumen orti nos que et profestis lucibus et sacris inter iocosi munera Liberi cum prole matronis que nostris rite deos prius adprecati uirtute functos more patrum duces Lydis remixto carmine tibiis Troiam que et Anchisen et almae progeniem Veneris canemus	positive	3.5
