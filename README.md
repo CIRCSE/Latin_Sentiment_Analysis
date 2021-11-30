@@ -35,6 +35,11 @@ We decided to:
 
 ### Zero-Shot Classification
 
+## Citation
+
+If you use the resources available in this repository, please cite the following paper:
+- Rachele Sprugnoli, Francesco Mambrini, Marco Passarotti, Giovanni Moretti. *Sentiment Analysis of Latin Poetry: First Experiments on the Odes of Horace.* In Proceedings of the Eighth Italian Conference on Computational Linguistics (CLiC-it 2021).
+
 ## Copyright
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />The resources available in this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
