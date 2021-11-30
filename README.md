@@ -39,14 +39,14 @@ Accuracy of the mono-lingual and cross-lingual (zero-shot) classification method
 | Language | Test Set         | Genre             | mBERT | XLM-RoBERTa |
 |----------|------------------|-------------------|-------|-------------|
 | English  | GoEmotions       | social media      | 86%  | 73%        |
-|          | AIT-2018         | social media      | 64%  | 59%        |
-|          | Poem Sentiment   | literary - poetry | 50%  | 70%        |
+|  English        | AIT-2018         | social media      | 64%  | 59%        |
+|    English      | Poem Sentiment   | literary - poetry | 50%  | 70%        |
 | Italian  | MultiEmotions-It | social media      | 70%  | 75%        |
-|          | AriEmozione      | literary - opera  | 50%  | 52%        |
+|     Italian     | AriEmozione      | literary - opera  | 50%  | 52%        |
 | Latin    | Horace GS        | literary - poetry | 32%  | 30%        |
 
 
-F1 of the experiments
+F1 registered with the experiments
 |          | Lexicon-Based SA | Zero-shot mBERT | XML-RoBERTa |
 |----------|------------------|-----------------|-------------|
 |          | F1               | F1              | F1          |
