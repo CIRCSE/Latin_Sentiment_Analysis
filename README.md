@@ -54,6 +54,7 @@ F1 registered with the experiments
 | negative | 0.50             | 0.60            | 0.59        |
 | neutral  | 0.36             | 0.18            | 0.20        |
 | mixed    | 0.00             | 0.00            | 0.00        |
+| macro avg    | 0.37             | 0.29            | 0.24        |
 
 ## Citation
 
