@@ -29,11 +29,9 @@ We decided to:
 - keep all D (numeral): *simplex, primus, prius, primum*
 - keep all L (indef pron): *solus*
 
-### Unsupervised Approaches
-
-### Bilingual Sentiment Embeddings
-
 ### Zero-Shot Classification
+
+We trained a language model for SA on English and tested it on our GS by relying on two state-of-the-art multilingual models. More specifically, we fine-tuned Multilingual BERT (mBERT) and XLM-RoBERTa with the GoEmotions corpus using the Hugging Face’s PyTorch implementation.
 
 ## Citation
 
