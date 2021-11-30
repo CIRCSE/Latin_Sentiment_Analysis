@@ -31,7 +31,29 @@ We decided to:
 
 ### Zero-Shot Classification
 
-We trained a language model for SA on English and tested it on our GS by relying on two state-of-the-art multilingual models. More specifically, we fine-tuned Multilingual BERT (mBERT) and XLM-RoBERTa with the GoEmotions corpus using the Hugging Face’s PyTorch implementation.
+We trained a language model for SA on English and tested it on our GS by relying on two state-of-the-art multilingual models. More specifically, we fine-tuned Multilingual BERT (mBERT) and XLM-RoBERTa with the GoEmotions corpus using the Hugging Face’s PyTorch implementation. We compared the results obtained on Latin with the ones achieved in a mono-lingual setting or in other cross-lingual experiments.
+
+### Results
+
+Accuracy of the mono-lingual and cross-lingual (zero-shot) classification method.
+| Language | Test Set         | Genre             | mBERT | XLM-RoBERTa |
+|----------|------------------|-------------------|-------|-------------|
+| English  | GoEmotions       | social media      | 86%  | 73%        |
+|          | AIT-2018         | social media      | 64%  | 59%        |
+|          | Poem Sentiment   | literary - poetry | 50%  | 70%        |
+| Italian  | MultiEmotions-It | social media      | 70%  | 75%        |
+|          | AriEmozione      | literary - opera  | 50%  | 52%        |
+| Latin    | Horace GS        | literary - poetry | 32%  | 30%        |
+
+
+F1 of the experiments
+|          | Lexicon-Based SA | Zero-shot mBERT | XML-RoBERTa |
+|----------|------------------|-----------------|-------------|
+|          | F1               | F1              | F1          |
+| positive | 0.62             | 0.38            | 0.18        |
+| negative | 0.50             | 0.60            | 0.59        |
+| neutral  | 0.36             | 0.18            | 0.20        |
+| mixed    | 0.00             | 0.00            | 0.00        |
 
 ## Citation
 
